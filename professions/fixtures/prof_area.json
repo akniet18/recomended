@@ -1,0 +1,226 @@
+[
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 1,
+        "fields": {
+            "title": "Продажи",
+            "title_en": "Sales"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 2,
+        "fields": {
+            "title": "Рабочий персонал",
+            "title_en": "Maintenance and Operations Personnel"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 3,
+        "fields": {
+            "title": "Транспорт",
+            "title_en": "Transport"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 4,
+        "fields": {
+            "title": "Производство",
+            "title_en": "Manufacturing"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 5,
+        "fields": {
+            "title": "IT, телеком",
+            "title_en": "IT, Telecom"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 6,
+        "fields": {
+            "title": "Строительство",
+            "title_en": "Construction"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 7,
+        "fields": {
+            "title": "Админ. персонал",
+            "title_en": "Admin. personnel"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 8,
+        "fields": {
+            "title": "Начало карьеры",
+            "title_en": "Career Starters"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 9,
+        "fields": {
+            "title": "Туризм, рестораны",
+            "title_en": "Tourism, restaurants"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 10,
+        "fields": {
+            "title": "Медицина",
+            "title_en": "Medicine"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 11,
+        "fields": {
+            "title": "Маркетинг",
+            "title_en": "Marketing"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 12,
+        "fields": {
+            "title": "Банки",
+            "title_en": "Banking"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 13,
+        "fields": {
+            "title": "Бухгалтерия",
+            "title_en": "Accounting"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 14,
+        "fields": {
+            "title": "Авто",
+            "title_en": "Auto"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 15,
+        "fields": {
+            "title": "Безопасность",
+            "title_en": "Security"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 16,
+        "fields": {
+            "title": "Управление персоналом",
+            "title_en": "Human Resources"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 17,
+        "fields": {
+            "title": "Консультирование",
+            "title_en": "Consulting"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 18,
+        "fields": {
+            "title": "Наука, образование",
+            "title_en": "Science, Education"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 19,
+        "fields": {
+            "title": "Топ-менеджмент",
+            "title_en": "Management Executives"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 20,
+        "fields": {
+            "title": "Искусство, медиа",
+            "title_en": "Arts/Entertainment/Media"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 21,
+        "fields": {
+            "title": "Спорт, фитнес",
+            "title_en": "Sports, Fitness"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 22,
+        "fields": {
+            "title": "Юриспруденция",
+            "title_en": "Law"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 23,
+        "fields": {
+            "title": "Закупки",
+            "title_en": "Procurement"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 24,
+        "fields": {
+            "title": "Домашний  персонал",
+            "title_en": "Domestic staff"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 25,
+        "fields": {
+            "title": "Добыча сырья",
+            "title_en": "Raw Materials"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 26,
+        "fields": {
+            "title": "Инсталляция",
+            "title_en": "Installation"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 27,
+        "fields": {
+            "title": "Страхование",
+            "title_en": "Insurance"
+        }
+    },
+    {
+        "model": "professions.ProfessionalArea",
+        "pk": 28,
+        "fields": {
+            "title": "Госслужба",
+            "title_en": "Government"
+        }
+    }
+]

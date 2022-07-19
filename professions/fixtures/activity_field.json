@@ -1,0 +1,5276 @@
+[
+    {
+        "model": "professions.ActivityField",
+        "pk": 1,
+        "fields": {
+            "title": "Розничная торговля",
+            "title_en": "Retail trade",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 2,
+        "fields": {
+            "title": "Продавец в магазине",
+            "title_en": "Sales Assistant",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 3,
+        "fields": {
+            "title": "Менеджер по работе с клиентами",
+            "title_en": "Client Manager",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 4,
+        "fields": {
+            "title": "Торговые сети",
+            "title_en": "Retail Chains",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 5,
+        "fields": {
+            "title": "Прямые продажи",
+            "title_en": "Direct Sales",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 6,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 7,
+        "fields": {
+            "title": "Продукты питания",
+            "title_en": "Food Products",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 8,
+        "fields": {
+            "title": "Оптовая торговля",
+            "title_en": "Wholesale Trade",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 9,
+        "fields": {
+            "title": "Управление продажами",
+            "title_en": "Sales Management",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 10,
+        "fields": {
+            "title": "FMCG, Товары народного потребления",
+            "title_en": "FMCG",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 11,
+        "fields": {
+            "title": "Продажи по телефону, Телемаркетинг",
+            "title_en": "Telesales, Telemarketing",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 12,
+        "fields": {
+            "title": "Дистрибуция",
+            "title_en": "Distribution",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 13,
+        "fields": {
+            "title": "Торговый представитель",
+            "title_en": "Sales Representative",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 14,
+        "fields": {
+            "title": "Текстиль, Одежда, Обувь",
+            "title_en": "Textiles, Clothing, Footwear",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 15,
+        "fields": {
+            "title": "Строительные материалы",
+            "title_en": "Construction Materials",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 16,
+        "fields": {
+            "title": "Услуги для бизнеса",
+            "title_en": "Business Services",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 17,
+        "fields": {
+            "title": "Дилерские сети",
+            "title_en": "Dealer Networks",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 18,
+        "fields": {
+            "title": "Услуги для населения",
+            "title_en": "Public Services",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 19,
+        "fields": {
+            "title": "Автомобили, Запчасти",
+            "title_en": "Cars, Parts",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 20,
+        "fields": {
+            "title": "Телекоммуникации, Сетевые решения",
+            "title_en": "Telecommunications, Network Solutions",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 21,
+        "fields": {
+            "title": "Мебель",
+            "title_en": "Furniture",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 22,
+        "fields": {
+            "title": "Электроника, фото, видео",
+            "title_en": "Electronics, Photo, Video",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 23,
+        "fields": {
+            "title": "Алкоголь",
+            "title_en": "Alcohol",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 24,
+        "fields": {
+            "title": "Медицина, Фармацевтика",
+            "title_en": "Medicine, Pharmaceuticals",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 25,
+        "fields": {
+            "title": "Электротехническое оборудование, Светотехника",
+            "title_en": "Electrical Equipment/Lighting",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 26,
+        "fields": {
+            "title": "Бытовая техника",
+            "title_en": "Household Appliances",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 27,
+        "fields": {
+            "title": "Финансовые услуги",
+            "title_en": "Financial Services",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 28,
+        "fields": {
+            "title": "Компьютерная техника",
+            "title_en": "IT Equipment",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 29,
+        "fields": {
+            "title": "Товары для бизнеса",
+            "title_en": "Business Products",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 30,
+        "fields": {
+            "title": "Тендеры",
+            "title_en": "Tenders",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 31,
+        "fields": {
+            "title": "Станки, тяжелое оборудование",
+            "title_en": "Machine Tools, Heavy Equipment",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 32,
+        "fields": {
+            "title": "Компьютерные программы",
+            "title_en": "Software",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 33,
+        "fields": {
+            "title": "Сантехника",
+            "title_en": "Plumbing",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 34,
+        "fields": {
+            "title": "Металлопрокат",
+            "title_en": "Rolled Metal",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 35,
+        "fields": {
+            "title": "ГСМ, нефть, бензин",
+            "title_en": "Fuels, Lubricants, Oil, Petroleum",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 36,
+        "fields": {
+            "title": "Сельское хозяйство",
+            "title_en": "Agriculture",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 37,
+        "fields": {
+            "title": "Химическая продукция",
+            "title_en": "Chemical Products",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 38,
+        "fields": {
+            "title": "Решения по автоматизации процессов",
+            "title_en": "Process Automation Solutions",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 39,
+        "fields": {
+            "title": "Системы безопасности",
+            "title_en": "Security Systems",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 40,
+        "fields": {
+            "title": "Многоуровневый маркетинг",
+            "title_en": "Multi-level Marketing",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 41,
+        "fields": {
+            "title": "Франчайзинг",
+            "title_en": "Franchising",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 42,
+        "fields": {
+            "title": "Цветные металлы",
+            "title_en": "Non-ferrous Metals",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 43,
+        "fields": {
+            "title": "Клининговые услуги",
+            "title_en": "Cleaning Services",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 44,
+        "fields": {
+            "title": "Сертификация",
+            "title_en": "Certification",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 45,
+        "fields": {
+            "title": "Торговля биржевыми товарами",
+            "title_en": "Commodities Trading",
+            "professional_area": 1
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 46,
+        "fields": {
+            "title": "Комплектовщик, Укладчик-упаковщик",
+            "title_en": "Picker, Packer",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 47,
+        "fields": {
+            "title": "Грузчик",
+            "title_en": "Loader",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 48,
+        "fields": {
+            "title": "Разнорабочий",
+            "title_en": "Laborer",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 49,
+        "fields": {
+            "title": "Другое",
+            "title_en": "Other",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 50,
+        "fields": {
+            "title": "Слесарь",
+            "title_en": "Fitter",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 51,
+        "fields": {
+            "title": "Сварщик",
+            "title_en": "Welder",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 52,
+        "fields": {
+            "title": "Монтажник",
+            "title_en": "Assembly Worker",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 53,
+        "fields": {
+            "title": "Оператор станков",
+            "title_en": "Machine Operator",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 54,
+        "fields": {
+            "title": "Наладчик",
+            "title_en": "Service Engineer",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 55,
+        "fields": {
+            "title": "Токарь, Фрезеровщик",
+            "title_en": "Turner, Miller",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 56,
+        "fields": {
+            "title": "Сборщик",
+            "title_en": "Assembly Worker",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 57,
+        "fields": {
+            "title": "Электромонтер, Кабельщик",
+            "title_en": "Electrician, Cable Technician",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 58,
+        "fields": {
+            "title": "Механик",
+            "title_en": "Technician",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 59,
+        "fields": {
+            "title": "Дворник, Уборщик",
+            "title_en": "Caretaker, Janitor",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 60,
+        "fields": {
+            "title": "Электрик",
+            "title_en": "Electrician",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 61,
+        "fields": {
+            "title": "Фасовщик",
+            "title_en": "Packer",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 62,
+        "fields": {
+            "title": "Маляр",
+            "title_en": "Painter",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 63,
+        "fields": {
+            "title": "Машинист экскаватора",
+            "title_en": "Excavator Operator",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 64,
+        "fields": {
+            "title": "Дорожные рабочие",
+            "title_en": "Road Workers",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 65,
+        "fields": {
+            "title": "Машинист производства",
+            "title_en": "Machinist",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 66,
+        "fields": {
+            "title": "Сантехник",
+            "title_en": "Plumber",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 67,
+        "fields": {
+            "title": "Швея",
+            "title_en": "Seamstress",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 68,
+        "fields": {
+            "title": "Столяр",
+            "title_en": "Carpenter",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 69,
+        "fields": {
+            "title": "Штукатур",
+            "title_en": "Platerer",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 70,
+        "fields": {
+            "title": "Шлифовщик",
+            "title_en": "Grinder",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 71,
+        "fields": {
+            "title": "Гардеробщик",
+            "title_en": "Coatroom Attendant",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 72,
+        "fields": {
+            "title": "Жестянщик",
+            "title_en": "Metal worker",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 73,
+        "fields": {
+            "title": "Краснодеревщик",
+            "title_en": "Cabinet Maker",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 74,
+        "fields": {
+            "title": "Ювелир",
+            "title_en": "Jeweler",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 75,
+        "fields": {
+            "title": "Кузнец",
+            "title_en": "Blacksmith",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 76,
+        "fields": {
+            "title": "Проводник",
+            "title_en": "Conductor",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 77,
+        "fields": {
+            "title": "Заправщик картриджей",
+            "title_en": "Printing Techician",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 78,
+        "fields": {
+            "title": "Лифтер",
+            "title_en": "Elevator Operator",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 79,
+        "fields": {
+            "title": "Перемотчик",
+            "title_en": "Rewinder Operator",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 80,
+        "fields": {
+            "title": "Машинист сцены",
+            "title_en": "Stage Hand",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 81,
+        "fields": {
+            "title": "Пастух, Чабан",
+            "title_en": "Rancher, Herder",
+            "professional_area": 2
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 82,
+        "fields": {
+            "title": "Водитель",
+            "title_en": "Driver",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 83,
+        "fields": {
+            "title": "Рабочий склада",
+            "title_en": "Warehouse Assistant",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 84,
+        "fields": {
+            "title": "Автоперевозки",
+            "title_en": "Freight Transport",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 85,
+        "fields": {
+            "title": "Логистика",
+            "title_en": "Logistics",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 86,
+        "fields": {
+            "title": "Складское хозяйство",
+            "title_en": "Warehousing",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 87,
+        "fields": {
+            "title": "Кладовщик",
+            "title_en": "Warehouse Manager",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 88,
+        "fields": {
+            "title": "Экспедитор",
+            "title_en": "Expediter",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 89,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 90,
+        "fields": {
+            "title": "Диспетчер",
+            "title_en": "Dispatcher",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 91,
+        "fields": {
+            "title": "Закупки, Снабжение",
+            "title_en": "Purchasing, Supply",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 92,
+        "fields": {
+            "title": "ВЭД",
+            "title_en": "International Logistics",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 93,
+        "fields": {
+            "title": "Морские/Речные перевозки",
+            "title_en": "Sea/River Transportation",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 94,
+        "fields": {
+            "title": "Железнодорожные перевозки",
+            "title_en": "Rail Transportation",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 95,
+        "fields": {
+            "title": "Контейнерные перевозки",
+            "title_en": "Container Shipping",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 96,
+        "fields": {
+            "title": "Авиаперевозки",
+            "title_en": "Air Cargo",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 97,
+        "fields": {
+            "title": "Таможенное оформление",
+            "title_en": "Customs Clearance",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 98,
+        "fields": {
+            "title": "Гражданская авиация",
+            "title_en": "Civil Aviation",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 99,
+        "fields": {
+            "title": "Трубопроводы",
+            "title_en": "Pipelines",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 100,
+        "fields": {
+            "title": "Бизнес-авиация",
+            "title_en": "Business Aviation",
+            "professional_area": 3
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 101,
+        "fields": {
+            "title": "Машиностроение",
+            "title_en": "Mechanical Engineering",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 102,
+        "fields": {
+            "title": "Инженер",
+            "title_en": "Engineer",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 103,
+        "fields": {
+            "title": "Пищевая промышленность",
+            "title_en": "Food Industry",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 104,
+        "fields": {
+            "title": "Металлургия",
+            "title_en": "Metallurgy",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 105,
+        "fields": {
+            "title": "Электроэнергетика",
+            "title_en": "Electric Power",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 106,
+        "fields": {
+            "title": "Автомобильная промышленность",
+            "title_en": "Automotive Industry",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 107,
+        "fields": {
+            "title": "Технолог",
+            "title_en": "Technician",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 108,
+        "fields": {
+            "title": "Контроль качества",
+            "title_en": "Quality Control",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 109,
+        "fields": {
+            "title": "Химическая промышленность",
+            "title_en": "Chemical Industry",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 110,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 111,
+        "fields": {
+            "title": "Конструктор",
+            "title_en": "Drafter",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 112,
+        "fields": {
+            "title": "Радиоэлектронная промышленность",
+            "title_en": "Radio and Electronics",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 113,
+        "fields": {
+            "title": "Легкая промышленность",
+            "title_en": "Consumer Goods Manufacturing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 114,
+        "fields": {
+            "title": "Авиационная промышленность",
+            "title_en": "Aviation Industry",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 115,
+        "fields": {
+            "title": "Сельхозпроизводство",
+            "title_en": "Agricultural Production",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 116,
+        "fields": {
+            "title": "Мебельное производство",
+            "title_en": "Furniture Manufacturing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 117,
+        "fields": {
+            "title": "Охрана труда",
+            "title_en": "Occupational Safety",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 118,
+        "fields": {
+            "title": "Стройматериалы",
+            "title_en": "Construction Materials",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 119,
+        "fields": {
+            "title": "Управление цехом",
+            "title_en": "Shop Floor Management",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 120,
+        "fields": {
+            "title": "Закупки и снабжение",
+            "title_en": "Purchasing and Supply",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 121,
+        "fields": {
+            "title": "Управление проектами",
+            "title_en": "Project Management",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 122,
+        "fields": {
+            "title": "Энергетик производства",
+            "title_en": "Power Engineer",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 123,
+        "fields": {
+            "title": "Судостроение",
+            "title_en": "Shipbuilding",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 124,
+        "fields": {
+            "title": "Главный инженер",
+            "title_en": "Chief Engineer",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 125,
+        "fields": {
+            "title": "Деревообработка, Лесная промышленность",
+            "title_en": "Timber Industry",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 126,
+        "fields": {
+            "title": "Полиграфия",
+            "title_en": "Printing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 127,
+        "fields": {
+            "title": "Нефтепереработка",
+            "title_en": "Oil Refining",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 128,
+        "fields": {
+            "title": "Фармацевтическая промышленность",
+            "title_en": "Pharmaceutical Industry",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 129,
+        "fields": {
+            "title": "Сертификация",
+            "title_en": "Certification",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 130,
+        "fields": {
+            "title": "Руководство предприятием",
+            "title_en": "Plant Management",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 131,
+        "fields": {
+            "title": "Эколог",
+            "title_en": "Ecologist",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 132,
+        "fields": {
+            "title": "Главный механик",
+            "title_en": "Chief Mechanic",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 133,
+        "fields": {
+            "title": "Технолог, Мясо- и птицепереработка",
+            "title_en": "Technician, Meat and Poultry Processing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 134,
+        "fields": {
+            "title": "Зоотехник",
+            "title_en": "Livestock Specialist",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 135,
+        "fields": {
+            "title": "Метролог",
+            "title_en": "Metrologist",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 136,
+        "fields": {
+            "title": "Инженер, Мясо- и птицепереработка",
+            "title_en": "Engineer, Meat and Poultry Processing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 137,
+        "fields": {
+            "title": "Атомная энергетика",
+            "title_en": "Nuclear Power",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 138,
+        "fields": {
+            "title": "Главный агроном",
+            "title_en": "Chief Agronomist",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 139,
+        "fields": {
+            "title": "Инженер, Производство и переработка зерновых",
+            "title_en": "Engineer, Grain Production and Processing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 140,
+        "fields": {
+            "title": "Технолог, Производство и переработка зерновых",
+            "title_en": "Technician, Grain Production and Processing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 141,
+        "fields": {
+            "title": "Ювелирная промышленность",
+            "title_en": "Jewelry Industry",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 142,
+        "fields": {
+            "title": "Табачная промышленность",
+            "title_en": "Tobacco Manufacturing",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 143,
+        "fields": {
+            "title": "Технолог, Производство сахара",
+            "title_en": "Technician, Sugar Production",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 144,
+        "fields": {
+            "title": "Инженер, Производство сахара",
+            "title_en": "Engineer, Sugar Production",
+            "professional_area": 4
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 145,
+        "fields": {
+            "title": "Программирование, Разработка",
+            "title_en": "Software Development",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 146,
+        "fields": {
+            "title": "Инженер",
+            "title_en": "Engineer",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 147,
+        "fields": {
+            "title": "Управление проектами",
+            "title_en": "Project Management",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 148,
+        "fields": {
+            "title": "Телекоммуникации",
+            "title_en": "Telecommunications",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 149,
+        "fields": {
+            "title": "Продажи",
+            "title_en": "Sales",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 150,
+        "fields": {
+            "title": "Системная интеграция",
+            "title_en": "System Integration",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 151,
+        "fields": {
+            "title": "Системный администратор",
+            "title_en": "System Administrator",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 152,
+        "fields": {
+            "title": "Поддержка, Helpdesk",
+            "title_en": "Support, Helpdesk",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 153,
+        "fields": {
+            "title": "Аналитик",
+            "title_en": "Analyst",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 154,
+        "fields": {
+            "title": "Сетевые технологии",
+            "title_en": "Networks",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 155,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 156,
+        "fields": {
+            "title": "Интернет",
+            "title_en": "Internet",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 157,
+        "fields": {
+            "title": "Системы управления предприятием (ERP)",
+            "title_en": "ERP",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 158,
+        "fields": {
+            "title": "Web инженер",
+            "title_en": "Web Engineer",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 159,
+        "fields": {
+            "title": "Тестирование",
+            "title_en": "Testing",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 160,
+        "fields": {
+            "title": "Web мастер",
+            "title_en": "Web master",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 161,
+        "fields": {
+            "title": "Администратор баз данных",
+            "title_en": "Database Administrator",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 162,
+        "fields": {
+            "title": "Банковское ПО",
+            "title_en": "Banking Software",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 163,
+        "fields": {
+            "title": "CRM системы",
+            "title_en": "CRM Systems",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 164,
+        "fields": {
+            "title": "Маркетинг",
+            "title_en": "Marketing",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 165,
+        "fields": {
+            "title": "Компьютерная безопасность",
+            "title_en": "IT Security",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 166,
+        "fields": {
+            "title": "Консалтинг, Аутсорсинг",
+            "title_en": "Consulting, Outsourcing",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 167,
+        "fields": {
+            "title": "Развитие бизнеса",
+            "title_en": "Business Development",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 168,
+        "fields": {
+            "title": "Системы автоматизированного проектирования",
+            "title_en": "Computer Aided Design Systems",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 169,
+        "fields": {
+            "title": "Электронная коммерция",
+            "title_en": "E-Commerce",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 170,
+        "fields": {
+            "title": "Передача данных и доступ в интернет",
+            "title_en": "Data Communication and Internet Access",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 171,
+        "fields": {
+            "title": "Игровое ПО",
+            "title_en": "Video Games Development",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 172,
+        "fields": {
+            "title": "Оптимизация сайта (SEO)",
+            "title_en": "SEO",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 173,
+        "fields": {
+            "title": "Технический писатель",
+            "title_en": "Technical Writer",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 174,
+        "fields": {
+            "title": "Стартапы",
+            "title_en": "Startups",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 175,
+        "fields": {
+            "title": "Сотовые, Беспроводные технологии",
+            "title_en": "Mobile, Wireless Technology",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 176,
+        "fields": {
+            "title": "Контент",
+            "title_en": "Content",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 177,
+        "fields": {
+            "title": "Мультимедиа",
+            "title_en": "Multimedia",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 178,
+        "fields": {
+            "title": "CTO, CIO, Директор по IT",
+            "title_en": "CTO, CIO, IT Director",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 179,
+        "fields": {
+            "title": "Арт-директор",
+            "title_en": "Art Director",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 180,
+        "fields": {
+            "title": "Продюсер",
+            "title_en": "Producer",
+            "professional_area": 5
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 181,
+        "fields": {
+            "title": "Строительство",
+            "title_en": "Construction",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 182,
+        "fields": {
+            "title": "Рабочие строительных специальностей",
+            "title_en": "Construction Workers",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 183,
+        "fields": {
+            "title": "Инженер",
+            "title_en": "Engineer",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 184,
+        "fields": {
+            "title": "Эксплуатация",
+            "title_en": "Operation",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 185,
+        "fields": {
+            "title": "Проектирование, Архитектура",
+            "title_en": "Design, Architecture",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 186,
+        "fields": {
+            "title": "Агент",
+            "title_en": "Agent",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 187,
+        "fields": {
+            "title": "Управление проектами",
+            "title_en": "Project Management",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 188,
+        "fields": {
+            "title": "Прораб",
+            "title_en": "Foreman",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 189,
+        "fields": {
+            "title": "Жилье",
+            "title_en": "Housing",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 190,
+        "fields": {
+            "title": "Отопление, вентиляция и кондиционирование",
+            "title_en": "Heating, Ventilation and Air Conditioning",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 191,
+        "fields": {
+            "title": "Нежилые помещения",
+            "title_en": "Non-residential Buildings",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 192,
+        "fields": {
+            "title": "Водоснабжение и канализация",
+            "title_en": "Water and Wastewater Systems",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 193,
+        "fields": {
+            "title": "Начальный уровень/Мало опыта",
+            "title_en": "Entry Level/Little Experience",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 194,
+        "fields": {
+            "title": "ЖКХ",
+            "title_en": "Utilities",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 195,
+        "fields": {
+            "title": "Тендеры",
+            "title_en": "Tenders",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 196,
+        "fields": {
+            "title": "Геодезия и картография",
+            "title_en": "Surveying and Cartography",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 197,
+        "fields": {
+            "title": "Землеустройство",
+            "title_en": "Land Management",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 198,
+        "fields": {
+            "title": "Дизайн/Оформление",
+            "title_en": "Design",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 199,
+        "fields": {
+            "title": "Девелопер",
+            "title_en": "Developer",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 200,
+        "fields": {
+            "title": "Оценка",
+            "title_en": "Valuation",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 201,
+        "fields": {
+            "title": "Гостиницы, Магазины",
+            "title_en": "Hotels, Stores",
+            "professional_area": 6
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 202,
+        "fields": {
+            "title": "Сотрудник call-центра",
+            "title_en": "Call Center Representative",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 203,
+        "fields": {
+            "title": "Секретарь",
+            "title_en": "Secretary",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 204,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 205,
+        "fields": {
+            "title": "Водитель",
+            "title_en": "Driver",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 206,
+        "fields": {
+            "title": "Делопроизводство",
+            "title_en": "Workflow Management",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 207,
+        "fields": {
+            "title": "Ввод данных",
+            "title_en": "Data Entry",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 208,
+        "fields": {
+            "title": "Ресепшен",
+            "title_en": "Reception, Switchboard",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 209,
+        "fields": {
+            "title": "Управляющий офисом(Оffice manager)",
+            "title_en": "Office Manager",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 210,
+        "fields": {
+            "title": "Персональный ассистент",
+            "title_en": "Personal Assistant",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 211,
+        "fields": {
+            "title": "Курьер",
+            "title_en": "Courier",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 212,
+        "fields": {
+            "title": "Уборщица",
+            "title_en": "Cleaner",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 213,
+        "fields": {
+            "title": "Учет товарооборота",
+            "title_en": "Goods Turnover",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 214,
+        "fields": {
+            "title": "АХО",
+            "title_en": "Administration and Maintenance",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 215,
+        "fields": {
+            "title": "Письменный перевод",
+            "title_en": "Translation",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 216,
+        "fields": {
+            "title": "Последовательный перевод",
+            "title_en": "Consecutive Interpreting",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 217,
+        "fields": {
+            "title": "Архивист",
+            "title_en": "Archivist",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 218,
+        "fields": {
+            "title": "Синхронный перевод",
+            "title_en": "Simultaneous Interpreting",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 219,
+        "fields": {
+            "title": "Вечерний секретарь",
+            "title_en": "Secretary - Evenings",
+            "professional_area": 7
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 220,
+        "fields": {
+            "title": "Продажи",
+            "title_en": "Sales",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 221,
+        "fields": {
+            "title": "Консультирование",
+            "title_en": "Consulting",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 222,
+        "fields": {
+            "title": "Туризм, Гостиницы, Рестораны",
+            "title_en": "Tourism, Hotels, Restaurants",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 223,
+        "fields": {
+            "title": "Административный персонал",
+            "title_en": "Administrative Personnel",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 224,
+        "fields": {
+            "title": "Информационные технологии, Интернет, Мультимедиа",
+            "title_en": "IT, Internet, Multimedia",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 225,
+        "fields": {
+            "title": "Финансы, Банки, Инвестиции",
+            "title_en": "Finance, Banking, Investment",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 226,
+        "fields": {
+            "title": "Транспорт, Логистика",
+            "title_en": "Transport, Logistics",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 227,
+        "fields": {
+            "title": "Производство, Технологии",
+            "title_en": "Manufacturing, Technology",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 228,
+        "fields": {
+            "title": "Маркетинг, Реклама, PR",
+            "title_en": "Marketing, Advertising, PR",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 229,
+        "fields": {
+            "title": "Наука, Образование",
+            "title_en": "Science, Education",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 230,
+        "fields": {
+            "title": "Автомобильный бизнес",
+            "title_en": "Automotive Business",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 231,
+        "fields": {
+            "title": "Искусство, Развлечения, Масс-медиа",
+            "title_en": "Art, Entertainment, Media",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 232,
+        "fields": {
+            "title": "Управление персоналом",
+            "title_en": "Human Resources",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 233,
+        "fields": {
+            "title": "Юристы",
+            "title_en": "Lawyers",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 234,
+        "fields": {
+            "title": "Строительство, Архитектура",
+            "title_en": "Construction, Architecture",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 235,
+        "fields": {
+            "title": "Медицина, Фармацевтика",
+            "title_en": "Medicine, Pharmaceuticals",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 236,
+        "fields": {
+            "title": "Бухгалтерия",
+            "title_en": "Accounting",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 237,
+        "fields": {
+            "title": "Страхование",
+            "title_en": "Insurance",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 238,
+        "fields": {
+            "title": "Закупки",
+            "title_en": "Procurement",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 239,
+        "fields": {
+            "title": "Добыча сырья",
+            "title_en": "Raw Materials",
+            "professional_area": 8
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 240,
+        "fields": {
+            "title": "Персонал кухни",
+            "title_en": "Kitchen Staff",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 241,
+        "fields": {
+            "title": "Повар",
+            "title_en": "Chef",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 242,
+        "fields": {
+            "title": "Официант, Бармен",
+            "title_en": "Waiter, Barman",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 243,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 244,
+        "fields": {
+            "title": "Управление ресторанами, Барами",
+            "title_en": "Restaurant and Bar Management",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 245,
+        "fields": {
+            "title": "Размещение, Обслуживание гостей",
+            "title_en": "Accommodation, Hospitality",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 246,
+        "fields": {
+            "title": "Продажа туристических услуг",
+            "title_en": "Travel Agent, Tour Operator",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 247,
+        "fields": {
+            "title": "Шеф-повар",
+            "title_en": "Head Chef",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 248,
+        "fields": {
+            "title": "Бронирование",
+            "title_en": "Reservations",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 249,
+        "fields": {
+            "title": "Хостес",
+            "title_en": "Hostess",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 250,
+        "fields": {
+            "title": "Кейтеринг",
+            "title_en": "Catering",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 251,
+        "fields": {
+            "title": "Организация туристических продуктов",
+            "title_en": "Tourism Products",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 252,
+        "fields": {
+            "title": "Банкеты",
+            "title_en": "Banquets",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 253,
+        "fields": {
+            "title": "Управление гостиницами",
+            "title_en": "Hotel Management",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 254,
+        "fields": {
+            "title": "Организация встреч, Конференций",
+            "title_en": "Meetings, Conferences Organization",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 255,
+        "fields": {
+            "title": "Анимация",
+            "title_en": "Entertainment",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 256,
+        "fields": {
+            "title": "Авиабилеты",
+            "title_en": "Flight Reservations",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 257,
+        "fields": {
+            "title": "Управление туристическим бизнесом",
+            "title_en": "Tourism Business Management",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 258,
+        "fields": {
+            "title": "Оформление виз",
+            "title_en": "Visa Processing",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 259,
+        "fields": {
+            "title": "Сомелье",
+            "title_en": "Sommelier",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 260,
+        "fields": {
+            "title": "Гид, Экскурсовод",
+            "title_en": "Tour Guide",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 261,
+        "fields": {
+            "title": "Швейцар",
+            "title_en": "Doorman",
+            "professional_area": 9
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 262,
+        "fields": {
+            "title": "Лечащий врач",
+            "title_en": "Attending Physician",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 263,
+        "fields": {
+            "title": "Врач-эксперт",
+            "title_en": "Expert Physician",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 264,
+        "fields": {
+            "title": "Клинические исследования",
+            "title_en": "Clinical Research",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 265,
+        "fields": {
+            "title": "Младший и средний медперсонал",
+            "title_en": "Junior Medical and Nursing Personnel",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 266,
+        "fields": {
+            "title": "Продажи",
+            "title_en": "Sales",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 267,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 268,
+        "fields": {
+            "title": "Провизор",
+            "title_en": "Pharmacist",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 269,
+        "fields": {
+            "title": "Фармацевт",
+            "title_en": "Pharmacist",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 270,
+        "fields": {
+            "title": "Медицинский представитель",
+            "title_en": "Medical Representative",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 271,
+        "fields": {
+            "title": "Лекарственные препараты",
+            "title_en": "Pharmaceuticals",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 272,
+        "fields": {
+            "title": "Медицинское оборудование",
+            "title_en": "Medical Equipment",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 273,
+        "fields": {
+            "title": "Ветеринария",
+            "title_en": "Veterinary Medicine",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 274,
+        "fields": {
+            "title": "Лаборант",
+            "title_en": "Lab Technician",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 275,
+        "fields": {
+            "title": "Производство",
+            "title_en": "Production",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 276,
+        "fields": {
+            "title": "Регистратура",
+            "title_en": "Billing Desk",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 277,
+        "fields": {
+            "title": "Маркетинг",
+            "title_en": "Marketing",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 278,
+        "fields": {
+            "title": "Медицинский советник",
+            "title_en": "Medical Advisor",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 279,
+        "fields": {
+            "title": "Сертификация",
+            "title_en": "Certification",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 280,
+        "fields": {
+            "title": "Оптика",
+            "title_en": "Optician",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 281,
+        "fields": {
+            "title": "Психология",
+            "title_en": "Psychology",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 282,
+        "fields": {
+            "title": "Дефектолог, Логопед",
+            "title_en": "Speech and Language Pathologist",
+            "professional_area": 10
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 283,
+        "fields": {
+            "title": "Менеджер по работе с клиентами",
+            "title_en": "Client Manager",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 284,
+        "fields": {
+            "title": "PR, Маркетинговые коммуникации",
+            "title_en": "PR, Marketing Communications",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 285,
+        "fields": {
+            "title": "Интернет-маркетинг",
+            "title_en": "Online Marketing",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 286,
+        "fields": {
+            "title": "Продвижение, Специальные мероприятия",
+            "title_en": "Promotion, Special Offers",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 287,
+        "fields": {
+            "title": "Управление маркетингом",
+            "title_en": "Marketing Management",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 288,
+        "fields": {
+            "title": "Мерчендайзинг",
+            "title_en": "Merchandising",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 289,
+        "fields": {
+            "title": "Планирование, Размещение рекламы",
+            "title_en": "Account Planning",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 290,
+        "fields": {
+            "title": "Управление проектами",
+            "title_en": "Project Management",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 291,
+        "fields": {
+            "title": "Аналитик",
+            "title_en": "Analyst",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 292,
+        "fields": {
+            "title": "Дизайнер",
+            "title_en": "Designer",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 293,
+        "fields": {
+            "title": "Исследования рынка",
+            "title_en": "Market Research",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 294,
+        "fields": {
+            "title": "Печатная реклама",
+            "title_en": "Print Advertising",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 295,
+        "fields": {
+            "title": "Наружная реклама",
+            "title_en": "Outdoor Advertising",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 296,
+        "fields": {
+            "title": "Начальный уровень/Мало опыта",
+            "title_en": "Entry Level/Little Experience",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 297,
+        "fields": {
+            "title": "Менеджмент продукта (Product manager)",
+            "title_en": "Product Manager",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 298,
+        "fields": {
+            "title": "Бренд-менеджмент",
+            "title_en": "Brand Management",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 299,
+        "fields": {
+            "title": "Торговый маркетинг(Trade marketing)",
+            "title_en": "Trade Marketing",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 300,
+        "fields": {
+            "title": "Производство рекламы",
+            "title_en": "Advertising Production",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 301,
+        "fields": {
+            "title": "Промоутер",
+            "title_en": "Product Promoter",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 302,
+        "fields": {
+            "title": "Копирайтер",
+            "title_en": "Copywriter",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 303,
+        "fields": {
+            "title": "Консультант",
+            "title_en": "Consultant",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 304,
+        "fields": {
+            "title": "Below The Line (BTL)",
+            "title_en": "Below The Line (BTL)",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 305,
+        "fields": {
+            "title": "Радио реклама",
+            "title_en": "Radio Advertising",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 306,
+        "fields": {
+            "title": "Верстальщик",
+            "title_en": "Layout Designer",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 307,
+        "fields": {
+            "title": "Ассистент",
+            "title_en": "Assistant",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 308,
+        "fields": {
+            "title": "Проведение опросов, Интервьюер",
+            "title_en": "Market Researcher, Pollster",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 309,
+        "fields": {
+            "title": "Рекламный агент",
+            "title_en": "Advertising Representative",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 310,
+        "fields": {
+            "title": "Тайный покупатель",
+            "title_en": "Secret buyer",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 311,
+        "fields": {
+            "title": "Телевизионная реклама",
+            "title_en": "Television Advertising",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 312,
+        "fields": {
+            "title": "Арт директор",
+            "title_en": "Art Director",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 313,
+        "fields": {
+            "title": "Политический PR",
+            "title_en": "Political PR",
+            "professional_area": 11
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 314,
+        "fields": {
+            "title": "Продажа финансовых продуктов",
+            "title_en": "Financial Sales",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 315,
+        "fields": {
+            "title": "Привлечение клиентов",
+            "title_en": "Customer Acquisition",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 316,
+        "fields": {
+            "title": "Коммерческий банк",
+            "title_en": "Commercial banking",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 317,
+        "fields": {
+            "title": "Кредиты",
+            "title_en": "Credit",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 318,
+        "fields": {
+            "title": "Кредиты: розничные",
+            "title_en": "Credit: Retail",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 319,
+        "fields": {
+            "title": "Бухгалтер",
+            "title_en": "Accountant",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 320,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 321,
+        "fields": {
+            "title": "Кассовое обслуживание, инкассация",
+            "title_en": "Cashier Services, Cash Collection",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 322,
+        "fields": {
+            "title": "Экономист",
+            "title_en": "Economist",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 323,
+        "fields": {
+            "title": "Кредитование малого и среднего бизнеса",
+            "title_en": "Small and Medium Business Lending",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 324,
+        "fields": {
+            "title": "Пластиковые карты",
+            "title_en": "Credit Cards, Payment Cards",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 325,
+        "fields": {
+            "title": "Аналитик",
+            "title_en": "Analyst",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 326,
+        "fields": {
+            "title": "Розничный бизнес",
+            "title_en": "Retail Banking",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 327,
+        "fields": {
+            "title": "Руководство бухгалтерией",
+            "title_en": "Accounting Management",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 328,
+        "fields": {
+            "title": "Работа с проблемными заемщиками",
+            "title_en": "Loan Workout",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 329,
+        "fields": {
+            "title": "Инвестиционная компания",
+            "title_en": "Investment Company",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 330,
+        "fields": {
+            "title": "ОПЕРУ",
+            "title_en": "Operations",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 331,
+        "fields": {
+            "title": "Корпоративное финансирование",
+            "title_en": "Corporate Finance",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 332,
+        "fields": {
+            "title": "Ипотека, Ипотечное кредитование",
+            "title_en": "Mortgage Services",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 333,
+        "fields": {
+            "title": "Риски: кредитные",
+            "title_en": "Risks: Credit",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 334,
+        "fields": {
+            "title": "Лизинг",
+            "title_en": "Leasing",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 335,
+        "fields": {
+            "title": "Аудит, Внутренний контроль",
+            "title_en": "Auditing, Internal Control",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 336,
+        "fields": {
+            "title": "Внутренние операции (Back Office)",
+            "title_en": "Back Office",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 337,
+        "fields": {
+            "title": "Отчетность",
+            "title_en": "Reporting",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 338,
+        "fields": {
+            "title": "Автокредитование",
+            "title_en": "Auto Loans",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 339,
+        "fields": {
+            "title": "Методология, Банковские технологии",
+            "title_en": "Methodology, Banking Technology",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 340,
+        "fields": {
+            "title": "Обменные пункты, Банкоматы",
+            "title_en": "Currency Exchange, ATMs",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 341,
+        "fields": {
+            "title": "Акции, Ценные бумаги",
+            "title_en": "Stocks, Securities",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 342,
+        "fields": {
+            "title": "Проектное финансирование",
+            "title_en": "Project Finance",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 343,
+        "fields": {
+            "title": "Портфельные инвестиции",
+            "title_en": "Portfolio Investments",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 344,
+        "fields": {
+            "title": "Разработка новых продуктов, Маркетинг",
+            "title_en": "New Product Development, Marketing",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 345,
+        "fields": {
+            "title": "Филиалы",
+            "title_en": "Branches",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 346,
+        "fields": {
+            "title": "Риски: финансовые",
+            "title_en": "Risks: Finance",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 347,
+        "fields": {
+            "title": "Финансовый мониторинг",
+            "title_en": "Financial Monitoring",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 348,
+        "fields": {
+            "title": "Оценка залога, Стоимости имущества",
+            "title_en": "Debt Appraisal, Cost of Property",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 349,
+        "fields": {
+            "title": "Private Banking",
+            "title_en": "Private Banking",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 350,
+        "fields": {
+            "title": "Риски: прочие",
+            "title_en": "Risks: Other",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 351,
+        "fields": {
+            "title": "Расчеты",
+            "title_en": "Settlements",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 352,
+        "fields": {
+            "title": "Прямые инвестиции",
+            "title_en": "Direct Investment",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 353,
+        "fields": {
+            "title": "Бюджетирование",
+            "title_en": "Budgeting",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 354,
+        "fields": {
+            "title": "Риски: операционные",
+            "title_en": "Risks: Operations",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 355,
+        "fields": {
+            "title": "Паевые фонды",
+            "title_en": "Mutual Funds",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 356,
+        "fields": {
+            "title": "Казначейство, Управление ликвидностью",
+            "title_en": "Treasury and Liquidity Management",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 357,
+        "fields": {
+            "title": "Риски: рыночные",
+            "title_en": "Risks: Market",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 358,
+        "fields": {
+            "title": "Forex",
+            "title_en": "Forex",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 359,
+        "fields": {
+            "title": "Валютный контроль",
+            "title_en": "Currency Control",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 360,
+        "fields": {
+            "title": "Налоги",
+            "title_en": "Tax",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 361,
+        "fields": {
+            "title": "Трейдинг, Дилинг",
+            "title_en": "Trading, Dealing",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 362,
+        "fields": {
+            "title": "Денежный рынок (money market)",
+            "title_en": "Money Market",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 363,
+        "fields": {
+            "title": "Риски: лизинговые",
+            "title_en": "Risks: Leasing",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 364,
+        "fields": {
+            "title": "Факторинг",
+            "title_en": "Factoring",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 365,
+        "fields": {
+            "title": "Бумаги с фиксированной доходностью (fixed Income)",
+            "title_en": "Fixed Income Securities",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 366,
+        "fields": {
+            "title": "Торговое финансирование",
+            "title_en": "Trade Finance",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 367,
+        "fields": {
+            "title": "Корреспондентские, Международные отношения",
+            "title_en": "Correspondent, International Relationships",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 368,
+        "fields": {
+            "title": "Эмиссии",
+            "title_en": "Issues",
+            "professional_area": 12
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 369,
+        "fields": {
+            "title": "Бухгалтер",
+            "title_en": "Accountant",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 370,
+        "fields": {
+            "title": "Кассир, Инкассатор",
+            "title_en": "Cashier, Cash Collector",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 371,
+        "fields": {
+            "title": "Первичная документация",
+            "title_en": "Source Documentation",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 372,
+        "fields": {
+            "title": "Учет счетов и платежей",
+            "title_en": "Accounts and Payments",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 373,
+        "fields": {
+            "title": "Экономист",
+            "title_en": "Economist",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 374,
+        "fields": {
+            "title": "Учет заработной платы",
+            "title_en": "Payroll Accounting",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 375,
+        "fields": {
+            "title": "Бухгалтер-калькулятор",
+            "title_en": "Cost Accountant",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 376,
+        "fields": {
+            "title": "Руководство бухгалтерией",
+            "title_en": "Accounting Management",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 377,
+        "fields": {
+            "title": "Финансовый анализ",
+            "title_en": "Financial Analysis",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 378,
+        "fields": {
+            "title": "Финансовый контроль",
+            "title_en": "Financial Control",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 379,
+        "fields": {
+            "title": "Бюджетирование и планирование",
+            "title_en": "Budgeting and Planning",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 380,
+        "fields": {
+            "title": "ТМЦ",
+            "title_en": "Inventory",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 381,
+        "fields": {
+            "title": "Финансовый менеджмент",
+            "title_en": "Finance Management",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 382,
+        "fields": {
+            "title": "Планово-экономическое управление",
+            "title_en": "Financial Planning Administration",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 383,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 384,
+        "fields": {
+            "title": "Налоги",
+            "title_en": "Tax",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 385,
+        "fields": {
+            "title": "Расчет себестоимости",
+            "title_en": "Cost Accounting",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 386,
+        "fields": {
+            "title": "Аудит",
+            "title_en": "Auditing",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 387,
+        "fields": {
+            "title": "Основные средства",
+            "title_en": "Capital Assets",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 388,
+        "fields": {
+            "title": "МСФО, IFRS",
+            "title_en": "IFRS",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 389,
+        "fields": {
+            "title": "Казначейство",
+            "title_en": "Treasury",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 390,
+        "fields": {
+            "title": "Валютный контроль",
+            "title_en": "Currency Control",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 391,
+        "fields": {
+            "title": "ACCA",
+            "title_en": "ACCA",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 392,
+        "fields": {
+            "title": "Кредитный контроль",
+            "title_en": "Credit Control",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 393,
+        "fields": {
+            "title": "Ценные бумаги",
+            "title_en": "Securities",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 394,
+        "fields": {
+            "title": "GAAP",
+            "title_en": "GAAP",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 395,
+        "fields": {
+            "title": "CIPA",
+            "title_en": "CIPA",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 396,
+        "fields": {
+            "title": "Оффшоры",
+            "title_en": "Offshore",
+            "professional_area": 13
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 397,
+        "fields": {
+            "title": "Сервисное обслуживание",
+            "title_en": "Maintenance",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 398,
+        "fields": {
+            "title": "Продажа",
+            "title_en": "Auto Sales",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 399,
+        "fields": {
+            "title": "Автослесарь",
+            "title_en": "Auto Mechanic",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 400,
+        "fields": {
+            "title": "Начальный уровень /Мало опыта ",
+            "title_en": "Entry Level/Little Experience ",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 401,
+        "fields": {
+            "title": "Автозапчасти",
+            "title_en": "Auto Parts",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 402,
+        "fields": {
+            "title": "Производство",
+            "title_en": "Production",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 403,
+        "fields": {
+            "title": "Автожестянщик",
+            "title_en": "Auto Body Worker",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 404,
+        "fields": {
+            "title": "Автомойщик",
+            "title_en": "Auto Detailing",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 405,
+        "fields": {
+            "title": "Шины, Диски",
+            "title_en": "Tires, Wheel Rims",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 406,
+        "fields": {
+            "title": "Прокат, лизинг",
+            "title_en": "Car Hire",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 407,
+        "fields": {
+            "title": "Тонировщик",
+            "title_en": "Window Tinter",
+            "professional_area": 14
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 408,
+        "fields": {
+            "title": "Охранник",
+            "title_en": "Security Guard",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 409,
+        "fields": {
+            "title": "Личная безопасность",
+            "title_en": "Personal Security",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 410,
+        "fields": {
+            "title": "Имущественная безопасность",
+            "title_en": "Property Security",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 411,
+        "fields": {
+            "title": "Пожарная безопасность",
+            "title_en": "Fire Safety",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 412,
+        "fields": {
+            "title": "Экономическая и информационная безопасность",
+            "title_en": "Economic and Information Security",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 413,
+        "fields": {
+            "title": "Системы видеонаблюдения",
+            "title_en": "Video Surveillance Systems",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 414,
+        "fields": {
+            "title": "Взыскание задолженности, Коллекторская деятельность",
+            "title_en": "Debt Collection",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 415,
+        "fields": {
+            "title": "Руководитель СБ",
+            "title_en": "Security Manager",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 416,
+        "fields": {
+            "title": "Инкассатор",
+            "title_en": "Cash Collector",
+            "professional_area": 15
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 417,
+        "fields": {
+            "title": "Управление персоналом",
+            "title_en": "Human Resources",
+            "professional_area": 16
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 418,
+        "fields": {
+            "title": "Рекрутмент",
+            "title_en": "Recruitment",
+            "professional_area": 16
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 419,
+        "fields": {
+            "title": "Развитие персонала",
+            "title_en": "People Development",
+            "professional_area": 16
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 420,
+        "fields": {
+            "title": "Учет кадров",
+            "title_en": "Personnel Records",
+            "professional_area": 16
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 421,
+        "fields": {
+            "title": "Тренинги",
+            "title_en": "Training",
+            "professional_area": 16
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 422,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 16
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 423,
+        "fields": {
+            "title": "Компенсации и льготы",
+            "title_en": "Compensation and Benefits",
+            "professional_area": 16
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 424,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 425,
+        "fields": {
+            "title": "Информационные технологии",
+            "title_en": "IT",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 426,
+        "fields": {
+            "title": "Недвижимость",
+            "title_en": "Real Estate",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 427,
+        "fields": {
+            "title": "Управление проектами",
+            "title_en": "Project Management",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 428,
+        "fields": {
+            "title": "Организационное консультирование",
+            "title_en": "Organizational Consulting",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 429,
+        "fields": {
+            "title": "Управленческое консультирование",
+            "title_en": "Management Consulting",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 430,
+        "fields": {
+            "title": "Реинжиниринг бизнес процессов",
+            "title_en": "Reengineering Business Processes",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 431,
+        "fields": {
+            "title": "Internet, E-Commerce",
+            "title_en": "Internet, E-Commerce",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 432,
+        "fields": {
+            "title": "Стратегия",
+            "title_en": "Strategy",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 433,
+        "fields": {
+            "title": "Исследования рынка",
+            "title_en": "Market Research",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 434,
+        "fields": {
+            "title": "Корпоративные финансы",
+            "title_en": "Corporate Finance",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 435,
+        "fields": {
+            "title": "Реинжиниринг, Аутсорсинг финансовой функции",
+            "title_en": "Reengineering, Financial Services Outsourcing",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 436,
+        "fields": {
+            "title": "Управление практикой",
+            "title_en": "Practice Management",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 437,
+        "fields": {
+            "title": "Knowledge management",
+            "title_en": "Knowledge management",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 438,
+        "fields": {
+            "title": "PR Consulting",
+            "title_en": "PR Consulting",
+            "professional_area": 17
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 439,
+        "fields": {
+            "title": "Преподавание",
+            "title_en": "Teaching",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 440,
+        "fields": {
+            "title": "Языки",
+            "title_en": "Languages",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 441,
+        "fields": {
+            "title": "Гуманитарные науки",
+            "title_en": "Humanities",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 442,
+        "fields": {
+            "title": "Математика",
+            "title_en": "Mathematics",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 443,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 444,
+        "fields": {
+            "title": "Инженерные науки",
+            "title_en": "Engineering",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 445,
+        "fields": {
+            "title": "Информатика, Информационные системы",
+            "title_en": "Computer Science, Information Systems",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 446,
+        "fields": {
+            "title": "Химия",
+            "title_en": "Chemistry",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 447,
+        "fields": {
+            "title": "Физика",
+            "title_en": "Physics",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 448,
+        "fields": {
+            "title": "Экономика, Менеджмент",
+            "title_en": "Economics, Management",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 449,
+        "fields": {
+            "title": "Биотехнологии",
+            "title_en": "Biotechnology",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 450,
+        "fields": {
+            "title": "Науки о Земле",
+            "title_en": "Earth Sciences",
+            "professional_area": 18
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 451,
+        "fields": {
+            "title": "Продажи",
+            "title_en": "Sales",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 452,
+        "fields": {
+            "title": "Администрирование",
+            "title_en": "Administration",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 453,
+        "fields": {
+            "title": "Управление персоналом, Тренинги",
+            "title_en": "Human Resources, Training",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 454,
+        "fields": {
+            "title": "Производство, Технология",
+            "title_en": "Manufacturing, Technology",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 455,
+        "fields": {
+            "title": "Управление малым бизнесом",
+            "title_en": "Small Business Management",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 456,
+        "fields": {
+            "title": "Строительство, Недвижимость",
+            "title_en": "Construction, Real Estate",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 457,
+        "fields": {
+            "title": "Транспорт, Логистика",
+            "title_en": "Transport, Logistics",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 458,
+        "fields": {
+            "title": "Маркетинг, Реклама, PR",
+            "title_en": "Marketing, Advertising, PR",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 459,
+        "fields": {
+            "title": "Информационные технологии, Интернет, Мультимедиа",
+            "title_en": "IT, Internet, Multimedia",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 460,
+        "fields": {
+            "title": "Финансы",
+            "title_en": "Finance",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 461,
+        "fields": {
+            "title": "Управление закупками",
+            "title_en": "Procurement Management",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 462,
+        "fields": {
+            "title": "Туризм, Гостиницы, Рестораны",
+            "title_en": "Tourism, Hotels, Restaurants",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 463,
+        "fields": {
+            "title": "Коммерческий Банк",
+            "title_en": "Commercial Banking",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 464,
+        "fields": {
+            "title": "Медицина, Фармацевтика",
+            "title_en": "Medicine, Pharmaceuticals",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 465,
+        "fields": {
+            "title": "Консультирование",
+            "title_en": "Consulting",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 466,
+        "fields": {
+            "title": "Наука, Образование",
+            "title_en": "Science, Education",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 467,
+        "fields": {
+            "title": "Страхование",
+            "title_en": "Insurance",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 468,
+        "fields": {
+            "title": "Антикризисное управление",
+            "title_en": "Anti-crisis Management",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 469,
+        "fields": {
+            "title": "Добыча cырья",
+            "title_en": "Raw Materials",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 470,
+        "fields": {
+            "title": "Юриспруденция",
+            "title_en": "Law",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 471,
+        "fields": {
+            "title": "Спортивные клубы, Фитнес, Салоны красоты",
+            "title_en": "Sports Clubs, Fitness Clubs, Beauty Salons",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 472,
+        "fields": {
+            "title": "Искусство, Развлечения, Масс-медиа",
+            "title_en": "Art, Entertainment, Media",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 473,
+        "fields": {
+            "title": "Инвестиции",
+            "title_en": "Investment",
+            "professional_area": 19
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 474,
+        "fields": {
+            "title": "Дизайн, графика, живопись",
+            "title_en": "Design, Graphic Design, Painting",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 475,
+        "fields": {
+            "title": "Прочее",
+            "title_en": "Other",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 476,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 477,
+        "fields": {
+            "title": "Фотография",
+            "title_en": "Photography",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 478,
+        "fields": {
+            "title": "Мода",
+            "title_en": "Fashion",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 479,
+        "fields": {
+            "title": "Журналистика",
+            "title_en": "Journalism",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 480,
+        "fields": {
+            "title": "Литературная, Редакторская деятельность",
+            "title_en": "Writing, Editing",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 481,
+        "fields": {
+            "title": "Телевидение",
+            "title_en": "Television",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 482,
+        "fields": {
+            "title": "Издательская деятельность",
+            "title_en": "Publishing",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 483,
+        "fields": {
+            "title": "Музыка",
+            "title_en": "Music",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 484,
+        "fields": {
+            "title": "Кино",
+            "title_en": "Film",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 485,
+        "fields": {
+            "title": "Пресса",
+            "title_en": "Press",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 486,
+        "fields": {
+            "title": "Казино и игорный бизнес",
+            "title_en": "Casinos and Gambling",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 487,
+        "fields": {
+            "title": "Радио",
+            "title_en": "Radio",
+            "professional_area": 20
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 488,
+        "fields": {
+            "title": "Продажи",
+            "title_en": "Sales",
+            "professional_area": 21
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 489,
+        "fields": {
+            "title": "Администрация",
+            "title_en": "Administration",
+            "professional_area": 21
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 490,
+        "fields": {
+            "title": "Тренерский состав",
+            "title_en": "Training Personnel",
+            "professional_area": 21
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 491,
+        "fields": {
+            "title": "Косметология",
+            "title_en": "Beauty",
+            "professional_area": 21
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 492,
+        "fields": {
+            "title": "Ногтевой сервис",
+            "title_en": "Nail Technician",
+            "professional_area": 21
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 493,
+        "fields": {
+            "title": "Парикмахер",
+            "title_en": "Hair Stylist",
+            "professional_area": 21
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 494,
+        "fields": {
+            "title": "Массажист",
+            "title_en": "Massage Therapist",
+            "professional_area": 21
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 495,
+        "fields": {
+            "title": "Юрисконсульт",
+            "title_en": "In-house Counsel",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 496,
+        "fields": {
+            "title": "Договорное право",
+            "title_en": "Contract Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 497,
+        "fields": {
+            "title": "Корпоративное право",
+            "title_en": "Corporate Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 498,
+        "fields": {
+            "title": "Трудовое право",
+            "title_en": "Labor Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 499,
+        "fields": {
+            "title": "Регистрация юридических лиц",
+            "title_en": "Legal Entities Registration",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 500,
+        "fields": {
+            "title": "Ценные бумаги, Рынки капитала",
+            "title_en": "Securities, Capital Markets",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 501,
+        "fields": {
+            "title": "Взыскание задолженности, Коллекторская деятельность",
+            "title_en": "Debt Collection",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 502,
+        "fields": {
+            "title": "Недвижимость",
+            "title_en": "Real Estate",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 503,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 504,
+        "fields": {
+            "title": "Арбитраж",
+            "title_en": "Arbitration",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 505,
+        "fields": {
+            "title": "Уголовное право",
+            "title_en": "Criminal Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 506,
+        "fields": {
+            "title": "Помощник",
+            "title_en": "Paralegal",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 507,
+        "fields": {
+            "title": "Налоговое право",
+            "title_en": "Tax Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 508,
+        "fields": {
+            "title": "Земельное право",
+            "title_en": "Land Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 509,
+        "fields": {
+            "title": "Банковское право",
+            "title_en": "Banking Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 510,
+        "fields": {
+            "title": "Международное право",
+            "title_en": "International Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 511,
+        "fields": {
+            "title": "Интеллектуальная собственность",
+            "title_en": "Intellectual Property",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 512,
+        "fields": {
+            "title": "Семейное право",
+            "title_en": "Family Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 513,
+        "fields": {
+            "title": "Страховое право",
+            "title_en": "Insurance Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 514,
+        "fields": {
+            "title": "Адвокат",
+            "title_en": "Lawyer",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 515,
+        "fields": {
+            "title": "Compliance",
+            "title_en": "Compliance",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 516,
+        "fields": {
+            "title": "Слияния и поглощения",
+            "title_en": "Mergers and Acquisitions",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 517,
+        "fields": {
+            "title": "Законотворчество",
+            "title_en": "Legislative",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 518,
+        "fields": {
+            "title": "Антимонопольное право",
+            "title_en": "Antitrust Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 519,
+        "fields": {
+            "title": "Авторское право",
+            "title_en": "Copyright Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 520,
+        "fields": {
+            "title": "Недропользование",
+            "title_en": "Subsoil Management",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 521,
+        "fields": {
+            "title": "Морское право",
+            "title_en": "Maritime Law",
+            "professional_area": 22
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 522,
+        "fields": {
+            "title": "Управление закупками",
+            "title_en": "Procurement Management",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 523,
+        "fields": {
+            "title": "Тендеры",
+            "title_en": "Tenders",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 524,
+        "fields": {
+            "title": "Продукты питания",
+            "title_en": "Food Products",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 525,
+        "fields": {
+            "title": "FMCG, Товары народного потребления",
+            "title_en": "FMCG",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 526,
+        "fields": {
+            "title": "Строительные материалы",
+            "title_en": "Construction Materials",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 527,
+        "fields": {
+            "title": "Автомобили, Запчасти",
+            "title_en": "Cars, Parts",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 528,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 529,
+        "fields": {
+            "title": "Электротехническое оборудование/светотехника",
+            "title_en": "Electrical Equipment/Lighting",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 530,
+        "fields": {
+            "title": "Сертификация",
+            "title_en": "Certification",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 531,
+        "fields": {
+            "title": "Товары для бизнеса",
+            "title_en": "Business Products",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 532,
+        "fields": {
+            "title": "Станки, Тяжелое оборудование",
+            "title_en": "Machine Tools, Heavy Equipment",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 533,
+        "fields": {
+            "title": "Металлопрокат",
+            "title_en": "Rolled Metal",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 534,
+        "fields": {
+            "title": "Компьютерная техника",
+            "title_en": "IT Equipment",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 535,
+        "fields": {
+            "title": "Фармацевтика",
+            "title_en": "Pharmaceutics",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 536,
+        "fields": {
+            "title": "Электроника, фото, видео",
+            "title_en": "Electronics, Photo, Video",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 537,
+        "fields": {
+            "title": "Химическая продукция",
+            "title_en": "Chemical Products",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 538,
+        "fields": {
+            "title": "Алкоголь",
+            "title_en": "Alcohol",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 539,
+        "fields": {
+            "title": "ГСМ, нефть, бензин",
+            "title_en": "Fuels, Lubricants, Oil, Petroleum",
+            "professional_area": 23
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 540,
+        "fields": {
+            "title": "Персональный водитель",
+            "title_en": "Personal Driver",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 541,
+        "fields": {
+            "title": "домработница/домработник, Горничная",
+            "title_en": "household worker, housemaid",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 542,
+        "fields": {
+            "title": "Воспитатель, Гувернантка, Няня",
+            "title_en": "Nanny, Au Pair, Tutor",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 543,
+        "fields": {
+            "title": "Повар",
+            "title_en": "Chef",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 544,
+        "fields": {
+            "title": "Помощник по хозяйству, Управляющий",
+            "title_en": "Domestic Worker",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 545,
+        "fields": {
+            "title": "Садовник",
+            "title_en": "Gardener",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 546,
+        "fields": {
+            "title": "Сиделка",
+            "title_en": "Care Assistant",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 547,
+        "fields": {
+            "title": "Репетитор",
+            "title_en": "Private Tutor",
+            "professional_area": 24
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 548,
+        "fields": {
+            "title": "Нефть",
+            "title_en": "Oil",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 549,
+        "fields": {
+            "title": "Газ",
+            "title_en": "Gas",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 550,
+        "fields": {
+            "title": "Руда",
+            "title_en": "Ore",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 551,
+        "fields": {
+            "title": "Инженер",
+            "title_en": "Engineer",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 552,
+        "fields": {
+            "title": "Бурение",
+            "title_en": "Drilling",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 553,
+        "fields": {
+            "title": "Геологоразведка",
+            "title_en": "Geological Exploration",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 554,
+        "fields": {
+            "title": "Уголь",
+            "title_en": "Coal",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 555,
+        "fields": {
+            "title": "Управление предприятием",
+            "title_en": "Enterprise Management",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 556,
+        "fields": {
+            "title": "Маркшейдер",
+            "title_en": "Mineral Surveyor",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 557,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 25
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 558,
+        "fields": {
+            "title": "Сервисный инженер",
+            "title_en": "Service Engineer",
+            "professional_area": 26
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 559,
+        "fields": {
+            "title": "Инсталляция и настройка оборудования",
+            "title_en": "Equipment Installation and Setup",
+            "professional_area": 26
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 560,
+        "fields": {
+            "title": "Менеджер по сервису - сетевые и телекоммуникационные технологии",
+            "title_en": "Service Manager - Network and Telecommunications Technology",
+            "professional_area": 26
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 561,
+        "fields": {
+            "title": "Менеджер по сервису - промышленное оборудование",
+            "title_en": "Service Manager - Industrial Equipment",
+            "professional_area": 26
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 562,
+        "fields": {
+            "title": "Менеджер по сервису - транспорт",
+            "title_en": "Service Manager - Transportation",
+            "professional_area": 26
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 563,
+        "fields": {
+            "title": "Руководитель сервисного центра",
+            "title_en": "Service Center Manager",
+            "professional_area": 26
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 564,
+        "fields": {
+            "title": "Комплексное страхование физических лиц",
+            "title_en": "Insurance - Individuals",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 565,
+        "fields": {
+            "title": "Агент",
+            "title_en": "Agent",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 566,
+        "fields": {
+            "title": "Комплексное страхование юридических лиц",
+            "title_en": "Insurance - Businesses, Organizations",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 567,
+        "fields": {
+            "title": "Автострахование",
+            "title_en": "Auto Insurance",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 568,
+        "fields": {
+            "title": "Страхование жизни",
+            "title_en": "Life Insurance",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 569,
+        "fields": {
+            "title": "Страхование недвижимости",
+            "title_en": "Property Insurance",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 570,
+        "fields": {
+            "title": "Руководитель направления",
+            "title_en": "Department Manager",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 571,
+        "fields": {
+            "title": "Начальный уровень, Мало опыта",
+            "title_en": "Entry Level, Little Experience",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 572,
+        "fields": {
+            "title": "Медицинское страхование",
+            "title_en": "Health Insurance",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 573,
+        "fields": {
+            "title": "Страхование бизнеса",
+            "title_en": "Business Insurance",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 574,
+        "fields": {
+            "title": "Урегулирование убытков",
+            "title_en": "Loss Adjustment",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 575,
+        "fields": {
+            "title": "Страхование ответственности",
+            "title_en": "Liability Insurance",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 576,
+        "fields": {
+            "title": "Эксперт-оценщик",
+            "title_en": "Appraiser",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 577,
+        "fields": {
+            "title": "Перестрахование",
+            "title_en": "Reinsurance",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 578,
+        "fields": {
+            "title": "Врач-эксперт",
+            "title_en": "Expert Physician",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 579,
+        "fields": {
+            "title": "Андеррайтер",
+            "title_en": "Underwriter",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 580,
+        "fields": {
+            "title": "Актуарий",
+            "title_en": "Actuary",
+            "professional_area": 27
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 581,
+        "fields": {
+            "title": "Общественные организации",
+            "title_en": "Civic Organizations",
+            "professional_area": 28
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 582,
+        "fields": {
+            "title": "Правительство",
+            "title_en": "Government",
+            "professional_area": 28
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 584,
+        "fields": {
+            "title": "НИИ",
+            "title_en": "Research Institute",
+            "professional_area": 28
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 585,
+        "fields": {
+            "title": "Благотворительность",
+            "title_en": "Charity",
+            "professional_area": 28
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 586,
+        "fields": {
+            "title": "Архивариус",
+            "title_en": "Registrar",
+            "professional_area": 28
+        }
+    },
+    {
+        "model": "professions.ActivityField",
+        "pk": 587,
+        "fields": {
+            "title": "Библиотекарь",
+            "title_en": "Librarian",
+            "professional_area": 28
+        }
+    }
+]

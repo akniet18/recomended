@@ -1,0 +1,122 @@
+[
+  {
+    "model": "locations.country",
+    "pk": 1,
+    "fields": {
+		"title": "Азербайджан",
+        "title_en": "Azerbaijan",
+		"code": "AZ",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 2,
+    "fields": {
+		"title": "Беларусь",
+        "title_en": "Belarus",
+		"code": "BY",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 3,
+    "fields": {
+		"title": "Грузия",
+        "title_en": "Georgia",
+		"code": "GE",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Georgia_official.svg/250px-Flag_of_Georgia_official.svg.png"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 4,
+    "fields": {
+		"title": "Казахстан",
+        "title_en": "Kazakhstan",
+		"code": "KZ",
+		"flag": "http://www.akorda.kz/upload/media/files/b1cacfd6bb3258581bb56143fc7da056.JPG"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 5,
+    "fields": {
+		"title": "Россия",
+        "title_en": "Russia",
+		"code": "RU",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 6,
+    "fields": {
+		"title": "Кыргызстан",
+        "title_en": "Kyrgyzstan",
+		"code": "KG",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 7,
+    "fields": {
+		"title": "Латвия",
+        "title_en": "Latvia",
+		"code": "LV",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 8,
+    "fields": {
+		"title": "Литва",
+        "title_en": "Lithuania",
+		"code": "LT",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 9,
+    "fields": {
+		"title": "Молдова",
+        "title_en": "Moldova",
+		"code": "MD",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 10,
+    "fields": {
+		"title": "Узбекистан",
+        "title_en": "Uzbekistan",
+		"code": "UZ",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/250px-Flag_of_Uzbekistan.svg.png"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 11,
+    "fields": {
+		"title": "Украина",
+        "title_en": "Ukraine",
+		"code": "UA",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+	}
+  },
+  {
+    "model": "locations.country",
+    "pk": 12,
+    "fields": {
+		"title": "Армения",
+        "title_en": "Armenia",
+		"code": "AM",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+	}
+  }
+]

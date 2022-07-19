@@ -1,0 +1,1298 @@
+[
+  {
+    "model": "locations.city",
+    "pk": 1,
+    "fields": {
+      "title": "Краснодар",
+      "title_en": "Krasnodar",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 2,
+    "fields": {
+      "title": "Хабаровск",
+      "title_en": "Khabarovsk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 3,
+    "fields": {
+      "title": "Казань",
+      "title_en": "Kazan",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 4,
+    "fields": {
+      "title": "Красноярск",
+      "title_en": "Krasnoyarsk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 5,
+    "fields": {
+      "title": "Калининград",
+      "title_en": "Kaliningrad",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 6,
+    "fields": {
+      "title": "Санкт-Петербург",
+      "title_en": "Saint Petersburg",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 7,
+    "fields": {
+      "title": "Москва",
+      "title_en": "Moscow",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 8,
+    "fields": {
+      "title": "Нижний Новгород",
+      "title_en": "Nizhny Novgorod",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 9,
+    "fields": {
+      "title": "Новосибирск",
+      "title_en": "Novosibirsk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 10,
+    "fields": {
+      "title": "Омск",
+      "title_en": "Omsk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 11,
+    "fields": {
+      "title": "Ростов-на-Дону",
+      "title_en": "Rostov-on-Don",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 12,
+    "fields": {
+      "title": "Самара",
+      "title_en": "Samara",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 13,
+    "fields": {
+      "title": "Саратов",
+      "title_en": "Saratov",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 14,
+    "fields": {
+      "title": "Екатеринбург",
+      "title_en": "Yekaterinburg",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 15,
+    "fields": {
+      "title": "Тверь",
+      "title_en": "Tver",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 16,
+    "fields": {
+      "title": "Томск",
+      "title_en": "Tomsk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 17,
+    "fields": {
+      "title": "Тула",
+      "title_en": "Tula",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 18,
+    "fields": {
+      "title": "Челябинск",
+      "title_en": "Chelyabinsk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 19,
+    "fields": {
+      "title": "Пенза",
+      "title_en": "Penza",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 20,
+    "fields": {
+      "title": "Ульяновск",
+      "title_en": "Ulyanovsk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 21,
+    "fields": {
+      "title": "Ярославль",
+      "title_en": "Yaroslavl",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 22,
+    "fields": {
+      "title": "Рязань",
+      "title_en": "Ryazan",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 23,
+    "fields": {
+      "title": "Курск",
+      "title_en": "Kursk",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 24,
+    "fields": {
+      "title": "Волгоград",
+      "title_en": "Volgograd",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 25,
+    "fields": {
+      "title": "Белгород",
+      "title_en": "Belgorod",
+      "country": 5
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 26,
+    "fields": {
+      "title": "Харьков",
+      "title_en": "Kharkiv",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 28,
+    "fields": {
+      "title": "Днепропетровск",
+      "title_en": "Dnipro",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 29,
+    "fields": {
+      "title": "Донецк",
+      "title_en": "Donetsk",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 30,
+    "fields": {
+      "title": "Запорожье",
+      "title_en": "Zaporizhia",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 31,
+    "fields": {
+      "title": "Львов",
+      "title_en": "Lvov",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 32,
+    "fields": {
+      "title": "Николаев",
+      "title_en": "Nikolayev",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 33,
+    "fields": {
+      "title": "Мариуполь",
+      "title_en": "Mariupol",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 34,
+    "fields": {
+      "title": "Луганск",
+      "title_en": "Luhansk",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 35,
+    "fields": {
+      "title": "Винница",
+      "title_en": "Vinnytsia",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 36,
+    "fields": {
+      "title": "Черкассы",
+      "title_en": "Cherkasy",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 38,
+    "fields": {
+      "title": "Полтава",
+      "title_en": "Poltava",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 39,
+    "fields": {
+      "title": "Хмельницкий",
+      "title_en": "Khmelnytskyi",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 40,
+    "fields": {
+      "title": "Черновцы",
+      "title_en": "Chernivtsi",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 41,
+    "fields": {
+      "title": "Житомир",
+      "title_en": "Zhytomyr",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 42,
+    "fields": {
+      "title": "Тернополь",
+      "title_en": "Ternopil",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 43,
+    "fields": {
+      "title": "Славянск",
+      "title_en": "Sloviansk",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 44,
+    "fields": {
+      "title": "Червоноград",
+      "title_en": "Chervonohrad",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 45,
+    "fields": {
+      "title": "Одесса",
+      "title_en": "Odessa",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 46,
+    "fields": {
+      "title": "Киев",
+      "title_en": "Kyiv",
+      "country": 11
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 47,
+    "fields": {
+      "title": "Минск",
+      "title_en": "Minsk",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 48,
+    "fields": {
+      "title": "Брест",
+      "title_en": "Brest",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 49,
+    "fields": {
+      "title": "Гродно",
+      "title_en": "Grodno",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 50,
+    "fields": {
+      "title": "Гомель",
+      "title_en": "Gomel",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 51,
+    "fields": {
+      "title": "Витебск",
+      "title_en": "Vitebsk",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 52,
+    "fields": {
+      "title": "Могилёв",
+      "title_en": "Mogilev",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 53,
+    "fields": {
+      "title": "Бобруйск",
+      "title_en": "Babruysk",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 54,
+    "fields": {
+      "title": "Пинск",
+      "title_en": "Pinsk",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 55,
+    "fields": {
+      "title": "Борисов",
+      "title_en": "Borisov",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 56,
+    "fields": {
+      "title": "Лида",
+      "title_en": "Lida",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 57,
+    "fields": {
+      "title": "Слуцк",
+      "title_en": "Slutsk",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 58,
+    "fields": {
+      "title": "Кобрин",
+      "title_en": "Kobryn",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 59,
+    "fields": {
+      "title": "Жодино",
+      "title_en": "Zhodzina",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 60,
+    "fields": {
+      "title": "Светлогорск",
+      "title_en": "Svietlahorsk",
+      "country": 2
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 61,
+    "fields": {
+      "title": "Алматы",
+      "title_en": "Almaty",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 62,
+    "fields": {
+      "title": "Нур-Султан (Астана)",
+      "title_en": "Nur-Sultan (Astana)",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 63,
+    "fields": {
+      "title": "Караганда",
+      "title_en": "Karagandy",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 64,
+    "fields": {
+      "title": "Актобе",
+      "title_en": "Aktobe",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 65,
+    "fields": {
+      "title": "Тараз",
+      "title_en": "Taraz",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 66,
+    "fields": {
+      "title": "Павлодар",
+      "title_en": "Pavlodar",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 67,
+    "fields": {
+      "title": "Усть-Каменогорск",
+      "title_en": "Oskemen",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 68,
+    "fields": {
+      "title": "Семей",
+      "title_en": "Semey",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 69,
+    "fields": {
+      "title": "Костанай",
+      "title_en": "Kostanai",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 70,
+    "fields": {
+      "title": "Атырау",
+      "title_en": "Atyrau",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 71,
+    "fields": {
+      "title": "Шымкент",
+      "title_en": "Shymkent",
+      "country": 4
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 72,
+    "fields": {
+      "title": "Вагаршапат",
+      "title_en": "Vagharshapat",
+      "country": 12
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 73,
+    "fields": {
+      "title": "Армавир",
+      "title_en": "Armavir",
+      "country": 12
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 74,
+    "fields": {
+      "title": "Масис",
+      "title_en": "Masis",
+      "country": 6
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 75,
+    "fields": {
+      "title": "Гавар",
+      "title_en": "Gavar",
+      "country": 12
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 76,
+    "fields": {
+      "title": "Севан",
+      "title_en": "Sevan",
+      "country": 12
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 77,
+    "fields": {
+      "title": "Раздан",
+      "title_en": "Hrazdan",
+      "country": 12
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 78,
+    "fields": {
+      "title": "Абовян",
+      "title_en": "Abovyan",
+      "country": 12
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 79,
+    "fields": {
+      "title": "Ереван",
+      "title_en": "Erevan",
+      "country": 12
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 80,
+    "fields": {
+      "title": "Тбилиси",
+      "title_en": "Tbilisi",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 81,
+    "fields": {
+      "title": "Ахалцихе",
+      "title_en": "Akhaltsikhe",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 82,
+    "fields": {
+      "title": "Амбролаури",
+      "title_en": "Ambrolauri",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 83,
+    "fields": {
+      "title": "Ахалкалаки",
+      "title_en": "Akhalkalaki",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 84,
+    "fields": {
+      "title": "Ахмета",
+      "title_en": "Akhmeta",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 85,
+    "fields": {
+      "title": "Багдати",
+      "title_en": "Baghdati",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 86,
+    "fields": {
+      "title": "Батуми",
+      "title_en": "Batumi",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 87,
+    "fields": {
+      "title": "Чиатура",
+      "title_en": "Chiatura",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 88,
+    "fields": {
+      "title": "Гардабани",
+      "title_en": "Gardabani",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 89,
+    "fields": {
+      "title": "Ланчхути",
+      "title_en": "Lanchkhuti",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 90,
+    "fields": {
+      "title": "Мцхета",
+      "title_en": "Mtskheta",
+      "country": 3
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 91,
+    "fields": {
+      "title": "Айдаркен",
+      "title_en": "Khaidarkan",
+      "country": 6
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 92,
+    "fields": {
+      "title": "Балыкчы",
+      "title_en": "Balykchy",
+      "country": 6
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 93,
+    "fields": {
+      "title": "Бишкек",
+      "title_en": "Bishkek",
+      "country": 6
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 94,
+    "fields": {
+      "title": "Каракол",
+      "title_en": "Karakol",
+      "country": 6
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 95,
+    "fields": {
+      "title": "Ош",
+      "title_en": "Osh",
+      "country": 6
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 96,
+    "fields": {
+      "title": "Талас",
+      "title_en": "Talas",
+      "country": 6
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 97,
+    "fields": {
+      "title": "Рига",
+      "title_en": "Riga",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 98,
+    "fields": {
+      "title": "Тукумс",
+      "title_en": "Tukums",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 99,
+    "fields": {
+      "title": "Саласпилс",
+      "title_en": "Salaspils",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 100,
+    "fields": {
+      "title": "Цесис",
+      "title_en": "Cēsis",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 101,
+    "fields": {
+      "title": "Кулдига",
+      "title_en": "Kuldīga",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 102,
+    "fields": {
+      "title": "Салдус",
+      "title_en": "Saldus",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 103,
+    "fields": {
+      "title": "Сигулда",
+      "title_en": "Sigulda",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 104,
+    "fields": {
+      "title": "Добеле",
+      "title_en": "Dobele",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 105,
+    "fields": {
+      "title": "Олайне",
+      "title_en": "Olaine",
+      "country": 7
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 106,
+    "fields": {
+      "title": "Вильнюс",
+      "title_en": "Vilnius",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 107,
+    "fields": {
+      "title": "Акмяне",
+      "title_en": "Akmenė",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 108,
+    "fields": {
+      "title": "Алитус",
+      "title_en": "Alytus",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 109,
+    "fields": {
+      "title": "Аникщяй",
+      "title_en": "Anyksciai",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 110,
+    "fields": {
+      "title": "Арёгала",
+      "title_en": "Ariogala",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 111,
+    "fields": {
+      "title": "Биржай",
+      "title_en": "Birzai",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 112,
+    "fields": {
+      "title": "Варняй",
+      "title_en": "Varniai",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 113,
+    "fields": {
+      "title": "Вилкавишкис",
+      "title_en": "Vilkaviškis",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 114,
+    "fields": {
+      "title": "Гаргждай",
+      "title_en": "Gargždai",
+      "country": 8
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 115,
+    "fields": {
+      "title": "Бессарабка",
+      "title_en": "Bessarabka",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 116,
+    "fields": {
+      "title": "Бируинца",
+      "title_en": "Biruința",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 117,
+    "fields": {
+      "title": "Бричаны",
+      "title_en": "Briceni",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 118,
+    "fields": {
+      "title": "Быковец",
+      "title_en": "Bucovăţ",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 119,
+    "fields": {
+      "title": "Гиндешты",
+      "title_en": "Ghindesti",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 120,
+    "fields": {
+      "title": "Дрокия",
+      "title_en": "Drochia",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 121,
+    "fields": {
+      "title": "Калараш",
+      "title_en": "Călărași",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 122,
+    "fields": {
+      "title": "Кишинёв",
+      "title_en": "Kishinev",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 123,
+    "fields": {
+      "title": "Костешты",
+      "title_en": "Costeşti",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 124,
+    "fields": {
+      "title": "Леово",
+      "title_en": "Leovo",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 125,
+    "fields": {
+      "title": "Ниспорены",
+      "title_en": "Nisporeni",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 126,
+    "fields": {
+      "title": "Атаки",
+      "title_en": "Ataki",
+      "country": 9
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 127,
+    "fields": {
+      "title": "Андижан",
+      "title_en": "Andijan",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 128,
+    "fields": {
+      "title": "Алат",
+      "title_en": "Alat",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 129,
+    "fields": {
+      "title": "Бухара",
+      "title_en": "Bukhara",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 130,
+    "fields": {
+      "title": "Асака",
+      "title_en": "Asaka",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 131,
+    "fields": {
+      "title": "Беруни",
+      "title_en": "Beruni",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 132,
+    "fields": {
+      "title": "Нукус",
+      "title_en": "Nukus",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 133,
+    "fields": {
+      "title": "Кунград",
+      "title_en": "Kungrad",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 134,
+    "fields": {
+      "title": "Джизак",
+      "title_en": "Jizzakh",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 135,
+    "fields": {
+      "title": "Гагарин",
+      "title_en": "Gagarin",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 136,
+    "fields": {
+      "title": "Бешкент",
+      "title_en": "Beshkent",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 137,
+    "fields": {
+      "title": "Касан",
+      "title_en": "Kasan",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 138,
+    "fields": {
+      "title": "Карши",
+      "title_en": "Qarshi",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 139,
+    "fields": {
+      "title": "Навои",
+      "title_en": "Navoi",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 140,
+    "fields": {
+      "title": "Учкудук",
+      "title_en": "Uchkuduk",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 141,
+    "fields": {
+      "title": "Зарафшан",
+      "title_en": "Zarafshan",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 142,
+    "fields": {
+      "title": "Наманган",
+      "title_en": "Namangan",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 143,
+    "fields": {
+      "title": "Самарканд",
+      "title_en": "Samarkand",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 144,
+    "fields": {
+      "title": "Байсун",
+      "title_en": "Baisun",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 145,
+    "fields": {
+      "title": "Сырдарья",
+      "title_en": "Sirdaryo",
+      "country": 10
+    }
+  },
+  {
+    "model": "locations.city",
+    "pk": 146,
+    "fields": {
+      "title": "Ташкент",
+      "title_en": "Tashkent",
+      "country": 10
+    }
+  }
+]

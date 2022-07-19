@@ -1,0 +1,370 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
+"POT-Creation-Date: 2019-09-20 12:31+0000\n"
+=======
+"POT-Creation-Date: 2019-09-26 03:50+0000\n"
+>>>>>>> 3fca20c59de16ae121b5be895abe1ea879ddf853
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: project_recommender/settings.py:168
+msgid "Russian"
+msgstr "Русский"
+
+#: project_recommender/settings.py:169
+msgid "English"
+msgstr "Английский"
+
+#: review/models.py:15
+msgid "Name"
+msgstr "Имя"
+
+#: review/models.py:40
+msgid "Employee"
+msgstr "Работник"
+
+#: review/models.py:41
+msgid "Employer"
+msgstr "Работодатель"
+
+#: review/models.py:42
+msgid "Contractor"
+msgstr "Подрядчик"
+
+#: review/models.py:43
+msgid "Customer"
+msgstr "Заказчик"
+
+#: review/models.py:44
+msgid "Partnership"
+msgstr "Партнерство"
+
+#: review/models.py:56
+msgid "User photo or brand logo"
+msgstr "Фото"
+
+#: review/models.py:117
+msgid "Reliable"
+msgstr "Достоверно"
+
+#: review/models.py:118
+msgid "Rumors"
+msgstr "Слухи"
+
+#: review/models.py:123
+msgid "Review content"
+msgstr "Текст отзыва"
+
+<<<<<<< HEAD
+#: review/models.py:173
+msgid "Answer content"
+msgstr "Текст ответа"
+
+#: review/models.py:219
+msgid "Home"
+msgstr "Домашний"
+
+#: review/models.py:220
+msgid "Work"
+msgstr "Рабочий"
+
+#: review/models.py:221
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: review/models.py:222
+msgid "Main"
+msgstr "Основной"
+
+#: review/models.py:223
+msgid "Home fax"
+msgstr "Домашний факс"
+
+#: review/models.py:224
+msgid "Work fax"
+msgstr "Рабочий факс"
+
+#: review/models.py:225
+msgid "Pager"
+msgstr "Пейджер"
+
+#: review/models.py:226
+msgid "Other"
+msgstr "Другое"
+
+#: review/models.py:260
+=======
+#: review/models.py:174
+msgid "Answer content"
+msgstr "Текст ответа"
+
+#: review/models.py:220
+msgid "Home"
+msgstr "Домашний"
+
+#: review/models.py:221
+msgid "Work"
+msgstr "Рабочий"
+
+#: review/models.py:222
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: review/models.py:223
+msgid "Main"
+msgstr "Основной"
+
+#: review/models.py:224
+msgid "Home fax"
+msgstr "Домашний факс"
+
+#: review/models.py:225
+msgid "Work fax"
+msgstr "Рабочий факс"
+
+#: review/models.py:226
+msgid "Pager"
+msgstr "Пейджер"
+
+#: review/models.py:227
+msgid "Other"
+msgstr "Другое"
+
+#: review/models.py:261
+>>>>>>> 3fca20c59de16ae121b5be895abe1ea879ddf853
+msgid "Feedback from {}"
+msgstr "Отзыв от пользователя"
+
+#: review/serializers.py:31 review/serializers.py:47
+msgid " already exists"
+msgstr " уже существует"
+
+#: review/serializers.py:73
+msgid " already exists."
+msgstr " уже существует."
+
+<<<<<<< HEAD
+#: review/utils.py:58
+#, python-brace-format
+msgid ""
+"Someone has left negative review about you on"
+"https://goverdict.com/profile/{offender_id} ."
+"To refute the negative review, enter the code. Your code: {secret_code}"
+msgstr ""
+"На Вас поступила негативная жалоба/негативный отзыв на сайте https://"
+"goverdict.com/profile/{offender_id} . Для опровержения  негативного "
+"отзыва введите код. Ваш код: {secret_code}"
+#: review/utils.py:60
+msgid "There is some message about you"
+msgstr "Тут написали о тебе"
+
+#: review/views.py:141
+msgid "Something went wrong"
+msgstr "Что то пошло не так"
+
+#: review/views.py:145
+msgid "review doesnt exists"
+msgstr "отзыв не существует"
+
+#: review/views.py:210 users/signup/views.py:89
+msgid "OK"
+msgstr "OK"
+
+#: review/views.py:212
+=======
+#: review/utils.py:60
+#, fuzzy, python-brace-format
+#| msgid ""
+#| "Someone has left negative review about you onhttps://goverdict.com/"
+#| "profile/{offender_id} .To refute the negative review, enter the code. "
+#| "Your code: {secret_code}"
+msgid ""
+"Someone has left negative review about you on https://goverdict.com/profile/"
+"{offender} . To refute the negative review, enter the code. Your code: "
+"{secret_code}"
+msgstr ""
+"На Вас поступила негативная жалоба/негативный отзыв на сайте https://"
+"goverdict.com/profile/{offender_id} . Для опровержения  негативного отзыва "
+"введите код. Ваш код: {secret_code}"
+
+#: review/utils.py:61
+msgid "There is some message about you"
+msgstr "Тут написали о тебе"
+
+#: review/views.py:162
+msgid "Something went wrong"
+msgstr "Что то пошло не так"
+
+#: review/views.py:166
+msgid "review doesnt exists"
+msgstr "отзыв не существует"
+
+#: review/views.py:230 users/signup/views.py:89
+msgid "OK"
+msgstr "OK"
+
+#: review/views.py:232
+>>>>>>> 3fca20c59de16ae121b5be895abe1ea879ddf853
+msgid "You are not author of this review"
+msgstr "Вы не являетесь автором данного отзыва"
+
+#: templates/account/email/email_confirmation_message.txt:1
+#, python-format
+msgid ""
+<<<<<<< HEAD
+"Hello from Goverdict.com!\n"
+=======
+"Hello from Recommender!\n"
+>>>>>>> 3fca20c59de16ae121b5be895abe1ea879ddf853
+"\n"
+"You're receiving this e-mail because user %(user_display)s has given yours "
+"as an e-mail address to connect their account.\n"
+"\n"
+<<<<<<< HEAD
+"To confirm this is correct, go to https://goverdict.com/confirm/"
+"%(key)s\n"
+=======
+"To confirm this is correct, go to https://goverdict.com/confirm/%(key)s\n"
+>>>>>>> 3fca20c59de16ae121b5be895abe1ea879ddf853
+msgstr ""
+
+#: templates/account/email/email_confirmation_message.txt:7
+msgid ""
+"\n"
+<<<<<<< HEAD
+"Thank you from Goverdict.com!\n"
+=======
+"Thank you from Recommender!\n"
+>>>>>>> 3fca20c59de16ae121b5be895abe1ea879ddf853
+msgstr ""
+
+#: templates/account/email/email_confirmation_subject.txt:3
+msgid "Please Confirm Your E-mail Address"
+msgstr "Пожалуйста, подтвердите Ваш E-mail адрес"
+
+#: uploads/utils.py:39
+msgid "File not supported"
+msgstr "Данный файл не подерживается"
+
+#: uploads/utils.py:46
+msgid "You have uploaded greater than 200 mb file"
+msgstr "Вы загрузили больше чем 200 мб."
+
+#: users/admin.py:14
+msgid "Personal Info"
+msgstr "Персональные данные"
+
+#: users/admin.py:22
+msgid "Permissions"
+msgstr "Разрешений"
+
+#: users/admin.py:27
+msgid "Important dates"
+msgstr "Важные даты"
+
+#: users/models.py:19
+msgid "Users must have an email address"
+msgstr "E-mail адрес является обязательным к заполнению"
+
+#: users/models.py:43
+msgid "Moderator"
+msgstr "Модератор"
+
+#: users/models.py:44
+msgid "User"
+msgstr "Пользователь"
+
+#: users/models.py:51
+msgid "Male"
+msgstr "Мужчина"
+
+#: users/models.py:52
+msgid "Female"
+msgstr "Женщина"
+
+#: users/models.py:53
+msgid "Rather not say"
+msgstr "Предпочитаю не говорить"
+
+#: users/serializers.py:41 users/serializers.py:44
+msgid "Must include \"email\" and \"password\""
+msgstr "\"email\" и \"пароль\" обязательны к заполнению"
+
+#: users/serializers.py:54
+msgid "User account is disabled"
+msgstr "Аккаунт не активирован"
+
+#: users/serializers.py:57
+msgid "Unable to log in with provided credentials"
+msgstr "Неправильно введены данные"
+
+#: users/serializers.py:64
+msgid "Email is not verified"
+msgstr "Email адрес не подтвержден"
+
+#: users/serializers.py:211
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr "Старый пароль был введен неправильно. Пожалуйста, повторите еще раз."
+
+#: users/signup/serializers.py:22
+msgid "A user is already registered with this e-mail address."
+msgstr "Пользователь с таким email уже существует."
+
+#: users/signup/serializers.py:31
+msgid "The two password fields didn't match."
+msgstr "Пароли не совпадают"
+
+#: users/signup/views.py:41
+msgid "Verification e-mail sent"
+msgstr "Письмо с подтверждением было отправлено на указанную почту."
+
+#: users/views.py:37
+#, fuzzy
+#| msgid "User account is disabled"
+msgid "Email account is activated"
+msgstr "Аккаунт активирован"
+
+#: users/views.py:124
+msgid "Successfully logged out"
+msgstr "Успешно вышли из системы"
+
+#: users/views.py:155
+msgid "Password reset email has been sent"
+msgstr "Письмо для сброса пароля было отправлено на указанную почту."
+
+#: users/views.py:173
+msgid "Password has been reset with the new password"
+msgstr "Пароль был сброшен с новым паролем"
+
+#: users/views.py:189
+msgid "New password has been saved"
+msgstr "Новый пароль сохранен"
+
+#~ msgid ""
+#~ "Someone has left negative review about you on https//:recommender.center. "
+#~ "To refute the negative review, enter the code. Your code: {secret_code}"
+#~ msgstr ""
+#~ "На Вас поступила негативная жалоба/негативный отзыв на сайте https//:"
+#~ "recommender.center/disprove/ . Для опровержения  негативного отзыва "
+#~ "введите код. Ваш код: {secret_code}"
+
+#~ msgid "You have entered wrong secure code"
+#~ msgstr "Вы ввели неправильный код"
+#test

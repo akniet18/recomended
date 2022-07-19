@@ -1,0 +1,2986 @@
+[
+  {
+    "model": "locations.region",
+    "pk": 1,
+    "fields": {
+      "country": 5,
+      "title": "Адыгея"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 2,
+    "fields": {
+      "country": 5,
+      "title": "Алтай"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 3,
+    "fields": {
+      "country": 5,
+      "title": "Алтайский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 4,
+    "fields": {
+      "country": 5,
+      "title": "Амурская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 5,
+    "fields": {
+      "country": 5,
+      "title": "Архангельская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 6,
+    "fields": {
+      "country": 5,
+      "title": "Астраханская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 7,
+    "fields": {
+      "country": 5,
+      "title": "Башкортостан"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 8,
+    "fields": {
+      "country": 5,
+      "title": "Белгородская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 9,
+    "fields": {
+      "country": 5,
+      "title": "Брянская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 10,
+    "fields": {
+      "country": 5,
+      "title": "Бурятия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 11,
+    "fields": {
+      "country": 5,
+      "title": "Владимирская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 12,
+    "fields": {
+      "country": 5,
+      "title": "Волгоградская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 13,
+    "fields": {
+      "country": 5,
+      "title": "Вологодская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 14,
+    "fields": {
+      "country": 5,
+      "title": "Воронежская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 15,
+    "fields": {
+      "country": 5,
+      "title": "Дагестан"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 16,
+    "fields": {
+      "country": 5,
+      "title": "Еврейская АОбл"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 17,
+    "fields": {
+      "country": 5,
+      "title": "Забайкальский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 18,
+    "fields": {
+      "country": 5,
+      "title": "Ивановская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 19,
+    "fields": {
+      "country": 5,
+      "title": "Ингушетия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 20,
+    "fields": {
+      "country": 5,
+      "title": "Иркутская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 21,
+    "fields": {
+      "country": 5,
+      "title": "Кабардино-Балкарская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 22,
+    "fields": {
+      "country": 5,
+      "title": "Калининградская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 23,
+    "fields": {
+      "country": 5,
+      "title": "Калмыкия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 24,
+    "fields": {
+      "country": 5,
+      "title": "Калужская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 25,
+    "fields": {
+      "country": 5,
+      "title": "Камчатский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 26,
+    "fields": {
+      "country": 5,
+      "title": "Карачаево-Черкесская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 27,
+    "fields": {
+      "country": 5,
+      "title": "Карелия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 28,
+    "fields": {
+      "country": 5,
+      "title": "Кемеровская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 29,
+    "fields": {
+      "country": 5,
+      "title": "Кировская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 30,
+    "fields": {
+      "country": 5,
+      "title": "Коми"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 31,
+    "fields": {
+      "country": 5,
+      "title": "Корякский АО"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 32,
+    "fields": {
+      "country": 5,
+      "title": "Костромская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 33,
+    "fields": {
+      "country": 5,
+      "title": "Краснодарский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 34,
+    "fields": {
+      "country": 5,
+      "title": "Красноярский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 35,
+    "fields": {
+      "country": 5,
+      "title": "Курганская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 36,
+    "fields": {
+      "country": 5,
+      "title": "Курская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 37,
+    "fields": {
+      "country": 5,
+      "title": "Ленинградская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 38,
+    "fields": {
+      "country": 5,
+      "title": "Липецкая область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 39,
+    "fields": {
+      "country": 5,
+      "title": "Магаданская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 40,
+    "fields": {
+      "country": 5,
+      "title": "Марий Эл"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 41,
+    "fields": {
+      "country": 5,
+      "title": "Мордовия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 42,
+    "fields": {
+      "country": 5,
+      "title": "Московская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 43,
+    "fields": {
+      "country": 5,
+      "title": "Мурманская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 44,
+    "fields": {
+      "country": 5,
+      "title": "Ненецкий АО"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 45,
+    "fields": {
+      "country": 5,
+      "title": "Нижегородская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 46,
+    "fields": {
+      "country": 5,
+      "title": "Новгородская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 47,
+    "fields": {
+      "country": 5,
+      "title": "Новосибирская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 48,
+    "fields": {
+      "country": 5,
+      "title": "Омская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 49,
+    "fields": {
+      "country": 5,
+      "title": "Оренбургская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 50,
+    "fields": {
+      "country": 5,
+      "title": "Орловская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 51,
+    "fields": {
+      "country": 5,
+      "title": "Пензенская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 52,
+    "fields": {
+      "country": 5,
+      "title": "Пермский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 53,
+    "fields": {
+      "country": 5,
+      "title": "Приморский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 54,
+    "fields": {
+      "country": 5,
+      "title": "Псковская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 55,
+    "fields": {
+      "country": 5,
+      "title": "Ростовская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 56,
+    "fields": {
+      "country": 5,
+      "title": "Рязанская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 57,
+    "fields": {
+      "country": 5,
+      "title": "Самарская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 58,
+    "fields": {
+      "country": 5,
+      "title": "Саратовская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 59,
+    "fields": {
+      "country": 5,
+      "title": "Саха /Якутия/"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 60,
+    "fields": {
+      "country": 5,
+      "title": "Сахалинская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 61,
+    "fields": {
+      "country": 5,
+      "title": "Свердловская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 62,
+    "fields": {
+      "country": 5,
+      "title": "Северная Осетия — Алания"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 63,
+    "fields": {
+      "country": 5,
+      "title": "Смоленская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 64,
+    "fields": {
+      "country": 5,
+      "title": "Ставропольский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 65,
+    "fields": {
+      "country": 5,
+      "title": "Таймырский (Долгано-Ненецкий) АО"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 66,
+    "fields": {
+      "country": 5,
+      "title": "Тамбовская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 67,
+    "fields": {
+      "country": 5,
+      "title": "Татарстан"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 68,
+    "fields": {
+      "country": 5,
+      "title": "Тверская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 69,
+    "fields": {
+      "country": 5,
+      "title": "Томская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 70,
+    "fields": {
+      "country": 5,
+      "title": "Тульская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 71,
+    "fields": {
+      "country": 5,
+      "title": "Тыва"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 72,
+    "fields": {
+      "country": 5,
+      "title": "Тюменская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 73,
+    "fields": {
+      "country": 5,
+      "title": "Удмуртская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 74,
+    "fields": {
+      "country": 5,
+      "title": "Ульяновская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 75,
+    "fields": {
+      "country": 5,
+      "title": "Хабаровский край"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 76,
+    "fields": {
+      "country": 5,
+      "title": "Хакасия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 77,
+    "fields": {
+      "country": 5,
+      "title": "Ханты-Мансийский Автономный округ - Югра АО"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 78,
+    "fields": {
+      "country": 5,
+      "title": "Челябинская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 79,
+    "fields": {
+      "country": 5,
+      "title": "Чеченская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 80,
+    "fields": {
+      "country": 5,
+      "title": "Чувашская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 81,
+    "fields": {
+      "country": 5,
+      "title": "Чукотский АО"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 82,
+    "fields": {
+      "country": 5,
+      "title": "Ямало-Ненецкий АО"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 83,
+    "fields": {
+      "country": 5,
+      "title": "Ярославская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 84,
+    "fields": {
+      "country": 11,
+      "title": "Винницкая область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 85,
+    "fields": {
+      "country": 11,
+      "title": "Волынская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 86,
+    "fields": {
+      "country": 11,
+      "title": "Днепропетровская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 87,
+    "fields": {
+      "country": 11,
+      "title": "Донецкая область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 88,
+    "fields": {
+      "country": 11,
+      "title": "Житомирская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 89,
+    "fields": {
+      "country": 11,
+      "title": "Закарпатская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 90,
+    "fields": {
+      "country": 11,
+      "title": "Запорожская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 91,
+    "fields": {
+      "country": 11,
+      "title": "Ивано-Франковская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 92,
+    "fields": {
+      "country": 11,
+      "title": "Киевская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 93,
+    "fields": {
+      "country": 11,
+      "title": "Кировоградская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 94,
+    "fields": {
+      "country": 11,
+      "title": "Крым"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 95,
+    "fields": {
+      "country": 11,
+      "title": "Луганская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 96,
+    "fields": {
+      "country": 11,
+      "title": "Львовская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 97,
+    "fields": {
+      "country": 11,
+      "title": "Николаевская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 98,
+    "fields": {
+      "country": 11,
+      "title": "Одесская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 99,
+    "fields": {
+      "country": 11,
+      "title": "Полтавская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 100,
+    "fields": {
+      "country": 11,
+      "title": "Ровненская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 101,
+    "fields": {
+      "country": 11,
+      "title": "Сумская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 102,
+    "fields": {
+      "country": 11,
+      "title": "Тернопольская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 103,
+    "fields": {
+      "country": 11,
+      "title": "Харьковская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 104,
+    "fields": {
+      "country": 11,
+      "title": "Херсонская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 105,
+    "fields": {
+      "country": 11,
+      "title": "Хмельницкая область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 106,
+    "fields": {
+      "country": 11,
+      "title": "Черкасская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 107,
+    "fields": {
+      "country": 11,
+      "title": "Черниговская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 108,
+    "fields": {
+      "country": 11,
+      "title": "Черновицкая область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 109,
+    "fields": {
+      "country": 2,
+      "title": "Брестская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 110,
+    "fields": {
+      "country": 2,
+      "title": "Витебская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 111,
+    "fields": {
+      "country": 2,
+      "title": "Гомельская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 112,
+    "fields": {
+      "country": 2,
+      "title": "Гродненская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 113,
+    "fields": {
+      "country": 2,
+      "title": "Минская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 114,
+    "fields": {
+      "country": 2,
+      "title": "Могилевская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 115,
+    "fields": {
+      "country": 4,
+      "title": "Акмолинская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 116,
+    "fields": {
+      "country": 4,
+      "title": "Актюбинская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 117,
+    "fields": {
+      "country": 4,
+      "title": "Алматинская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 118,
+    "fields": {
+      "country": 4,
+      "title": "Атырауская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 119,
+    "fields": {
+      "country": 4,
+      "title": "Восточно-Казахстанская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 120,
+    "fields": {
+      "country": 4,
+      "title": "Жамбылская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 121,
+    "fields": {
+      "country": 4,
+      "title": "Западно-Казахстанская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 122,
+    "fields": {
+      "country": 4,
+      "title": "Карагандинская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 123,
+    "fields": {
+      "country": 4,
+      "title": "Костанайская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 124,
+    "fields": {
+      "country": 4,
+      "title": "Кызылординская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 125,
+    "fields": {
+      "country": 4,
+      "title": "Мангистауская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 126,
+    "fields": {
+      "country": 4,
+      "title": "Павлодарская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 127,
+    "fields": {
+      "country": 4,
+      "title": "Северо-Казахстанская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 128,
+    "fields": {
+      "country": 4,
+      "title": "Туркестанская область"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 129,
+    "fields": {
+      "country": 12,
+      "title": "Арагацотнская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 130,
+    "fields": {
+      "country": 12,
+      "title": "Араратская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 131,
+    "fields": {
+      "country": 12,
+      "title": "Армавирская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 132,
+    "fields": {
+      "country": 12,
+      "title": "Вайоцдзорская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 133,
+    "fields": {
+      "country": 12,
+      "title": "Гехаркуникская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 134,
+    "fields": {
+      "country": 12,
+      "title": "Котайкская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 135,
+    "fields": {
+      "country": 12,
+      "title": "Лорийская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 136,
+    "fields": {
+      "country": 12,
+      "title": "Сюникская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 137,
+    "fields": {
+      "country": 12,
+      "title": "Тавушская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 138,
+    "fields": {
+      "country": 12,
+      "title": "Ширакская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 139,
+    "fields": {
+      "country": 3,
+      "title": "Абхазия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 140,
+    "fields": {
+      "country": 3,
+      "title": "Аджария"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 141,
+    "fields": {
+      "country": 3,
+      "title": "Гурийский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 142,
+    "fields": {
+      "country": 3,
+      "title": "Имеретинский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 143,
+    "fields": {
+      "country": 3,
+      "title": "Кахетинский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 144,
+    "fields": {
+      "country": 3,
+      "title": "Квемо-Картлийский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 145,
+    "fields": {
+      "country": 3,
+      "title": "Мцхета-Мтианетский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 146,
+    "fields": {
+      "country": 3,
+      "title": "Рача-Лечхумский и Квемо-Сванетский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 147,
+    "fields": {
+      "country": 3,
+      "title": "Самегрело и Земо-Сванетский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 148,
+    "fields": {
+      "country": 3,
+      "title": "Самцхе-Джавахетский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 149,
+    "fields": {
+      "country": 3,
+      "title": "Шида-Картлийский"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 150,
+    "fields": {
+      "country": 6,
+      "title": "Баткенская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 151,
+    "fields": {
+      "country": 6,
+      "title": "Джалал-Абадская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 152,
+    "fields": {
+      "country": 6,
+      "title": "Иссык-Кульская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 153,
+    "fields": {
+      "country": 6,
+      "title": "Нарынская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 154,
+    "fields": {
+      "country": 6,
+      "title": "Ошская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 155,
+    "fields": {
+      "country": 6,
+      "title": "Таласская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 156,
+    "fields": {
+      "country": 6,
+      "title": "Чуйская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 157,
+    "fields": {
+      "country": 7,
+      "title": "&#256;da&#382;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 158,
+    "fields": {
+      "country": 7,
+      "title": "Aglonas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 159,
+    "fields": {
+      "country": 7,
+      "title": "Aizkraukles novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 160,
+    "fields": {
+      "country": 7,
+      "title": "Aizputes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 161,
+    "fields": {
+      "country": 7,
+      "title": "Akn&#299;stes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 162,
+    "fields": {
+      "country": 7,
+      "title": "Alojas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 163,
+    "fields": {
+      "country": 7,
+      "title": "Alsungas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 164,
+    "fields": {
+      "country": 7,
+      "title": "Al&#363;ksnes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 165,
+    "fields": {
+      "country": 7,
+      "title": "Amatas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 166,
+    "fields": {
+      "country": 7,
+      "title": "Apes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 167,
+    "fields": {
+      "country": 7,
+      "title": "Auces novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 168,
+    "fields": {
+      "country": 7,
+      "title": "Bab&#299;tes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 169,
+    "fields": {
+      "country": 7,
+      "title": "Baldones novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 170,
+    "fields": {
+      "country": 7,
+      "title": "Baltinavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 171,
+    "fields": {
+      "country": 7,
+      "title": "Balvu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 172,
+    "fields": {
+      "country": 7,
+      "title": "Bauskas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 173,
+    "fields": {
+      "country": 7,
+      "title": "Bever&#299;nas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 174,
+    "fields": {
+      "country": 7,
+      "title": "Broc&#275;nu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 175,
+    "fields": {
+      "country": 7,
+      "title": "Burtnieku novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 176,
+    "fields": {
+      "country": 7,
+      "title": "Carnikavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 177,
+    "fields": {
+      "country": 7,
+      "title": "C&#275;su novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 178,
+    "fields": {
+      "country": 7,
+      "title": "Cesvaines novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 179,
+    "fields": {
+      "country": 7,
+      "title": "Ciblas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 180,
+    "fields": {
+      "country": 7,
+      "title": "Dagdas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 181,
+    "fields": {
+      "country": 7,
+      "title": "Daugavpils novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 182,
+    "fields": {
+      "country": 7,
+      "title": "Dobeles novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 183,
+    "fields": {
+      "country": 7,
+      "title": "Dundagas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 184,
+    "fields": {
+      "country": 7,
+      "title": "Durbes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 185,
+    "fields": {
+      "country": 7,
+      "title": "Engures novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 186,
+    "fields": {
+      "country": 7,
+      "title": "&#274;rg&#316;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 187,
+    "fields": {
+      "country": 7,
+      "title": "Garkalnes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 188,
+    "fields": {
+      "country": 7,
+      "title": "Grobi&#326;as novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 189,
+    "fields": {
+      "country": 7,
+      "title": "Gulbenes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 190,
+    "fields": {
+      "country": 7,
+      "title": "Iecavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 191,
+    "fields": {
+      "country": 7,
+      "title": "Ik&#353;&#311;iles novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 192,
+    "fields": {
+      "country": 7,
+      "title": "Il&#363;kstes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 193,
+    "fields": {
+      "country": 7,
+      "title": "In&#269;ukalna novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 194,
+    "fields": {
+      "country": 7,
+      "title": "Jaunjelgavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 195,
+    "fields": {
+      "country": 7,
+      "title": "Jaunpiebalgas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 196,
+    "fields": {
+      "country": 7,
+      "title": "Jaunpils novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 197,
+    "fields": {
+      "country": 7,
+      "title": "J&#275;kabpils novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 198,
+    "fields": {
+      "country": 7,
+      "title": "Jelgavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 199,
+    "fields": {
+      "country": 7,
+      "title": "Kandavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 200,
+    "fields": {
+      "country": 7,
+      "title": "K&#257;rsavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 201,
+    "fields": {
+      "country": 7,
+      "title": "&#310;eguma novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 202,
+    "fields": {
+      "country": 7,
+      "title": "&#310;ekavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 203,
+    "fields": {
+      "country": 7,
+      "title": "Koc&#275;nu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 204,
+    "fields": {
+      "country": 7,
+      "title": "Kokneses novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 205,
+    "fields": {
+      "country": 7,
+      "title": "Kr&#257;slavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 206,
+    "fields": {
+      "country": 7,
+      "title": "Krimuldas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 207,
+    "fields": {
+      "country": 7,
+      "title": "Krustpils novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 208,
+    "fields": {
+      "country": 7,
+      "title": "Kuld&#299;gas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 209,
+    "fields": {
+      "country": 7,
+      "title": "Lielv&#257;rdes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 210,
+    "fields": {
+      "country": 7,
+      "title": "L&#299;gatnes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 211,
+    "fields": {
+      "country": 7,
+      "title": "Limba&#382;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 212,
+    "fields": {
+      "country": 7,
+      "title": "L&#299;v&#257;nu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 213,
+    "fields": {
+      "country": 7,
+      "title": "Lub&#257;nas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 214,
+    "fields": {
+      "country": 7,
+      "title": "Ludzas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 215,
+    "fields": {
+      "country": 7,
+      "title": "Madonas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 216,
+    "fields": {
+      "country": 7,
+      "title": "M&#257;lpils novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 217,
+    "fields": {
+      "country": 7,
+      "title": "M&#257;rupes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 218,
+    "fields": {
+      "country": 7,
+      "title": "Mazsalacas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 219,
+    "fields": {
+      "country": 7,
+      "title": "M&#275;rsraga novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 220,
+    "fields": {
+      "country": 7,
+      "title": "Nauk&#353;&#275;nu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 221,
+    "fields": {
+      "country": 7,
+      "title": "Neretas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 222,
+    "fields": {
+      "country": 7,
+      "title": "N&#299;cas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 223,
+    "fields": {
+      "country": 7,
+      "title": "Ogres novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 224,
+    "fields": {
+      "country": 7,
+      "title": "Olaines novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 225,
+    "fields": {
+      "country": 7,
+      "title": "Ozolnieku novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 226,
+    "fields": {
+      "country": 7,
+      "title": "P&#257;rgaujas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 227,
+    "fields": {
+      "country": 7,
+      "title": "P&#257;vilostas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 228,
+    "fields": {
+      "country": 7,
+      "title": "P&#316;avi&#326;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 229,
+    "fields": {
+      "country": 7,
+      "title": "Prei&#316;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 230,
+    "fields": {
+      "country": 7,
+      "title": "Priekules novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 231,
+    "fields": {
+      "country": 7,
+      "title": "Prieku&#316;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 232,
+    "fields": {
+      "country": 7,
+      "title": "Raunas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 233,
+    "fields": {
+      "country": 7,
+      "title": "R&#275;zeknes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 234,
+    "fields": {
+      "country": 7,
+      "title": "Riebi&#326;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 235,
+    "fields": {
+      "country": 7,
+      "title": "Rojas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 236,
+    "fields": {
+      "country": 7,
+      "title": "Ropa&#382;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 237,
+    "fields": {
+      "country": 7,
+      "title": "Rucavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 238,
+    "fields": {
+      "country": 7,
+      "title": "Rug&#257;ju novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 239,
+    "fields": {
+      "country": 7,
+      "title": "R&#363;jienas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 240,
+    "fields": {
+      "country": 7,
+      "title": "Rund&#257;les novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 241,
+    "fields": {
+      "country": 7,
+      "title": "Salacgr&#299;vas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 242,
+    "fields": {
+      "country": 7,
+      "title": "Salas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 243,
+    "fields": {
+      "country": 7,
+      "title": "Salaspils novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 244,
+    "fields": {
+      "country": 7,
+      "title": "Saldus novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 245,
+    "fields": {
+      "country": 7,
+      "title": "Saulkrastu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 246,
+    "fields": {
+      "country": 7,
+      "title": "S&#275;jas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 247,
+    "fields": {
+      "country": 7,
+      "title": "Siguldas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 248,
+    "fields": {
+      "country": 7,
+      "title": "Skr&#299;veru novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 249,
+    "fields": {
+      "country": 7,
+      "title": "Skrundas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 250,
+    "fields": {
+      "country": 7,
+      "title": "Smiltenes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 251,
+    "fields": {
+      "country": 7,
+      "title": "Stopi&#326;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 252,
+    "fields": {
+      "country": 7,
+      "title": "Stren&#269;u novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 253,
+    "fields": {
+      "country": 7,
+      "title": "Talsu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 254,
+    "fields": {
+      "country": 7,
+      "title": "T&#275;rvetes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 255,
+    "fields": {
+      "country": 7,
+      "title": "Tukuma novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 256,
+    "fields": {
+      "country": 7,
+      "title": "Vai&#326;odes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 257,
+    "fields": {
+      "country": 7,
+      "title": "Valkas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 258,
+    "fields": {
+      "country": 7,
+      "title": "Varak&#316;&#257;nu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 259,
+    "fields": {
+      "country": 7,
+      "title": "V&#257;rkavas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 260,
+    "fields": {
+      "country": 7,
+      "title": "Vecpiebalgas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 261,
+    "fields": {
+      "country": 7,
+      "title": "Vecumnieku novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 262,
+    "fields": {
+      "country": 7,
+      "title": "Ventspils novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 263,
+    "fields": {
+      "country": 7,
+      "title": "Vies&#299;tes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 264,
+    "fields": {
+      "country": 7,
+      "title": "Vi&#316;akas novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 265,
+    "fields": {
+      "country": 7,
+      "title": "Vi&#316;&#257;nu novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 266,
+    "fields": {
+      "country": 7,
+      "title": "Zilupes novads"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 267,
+    "fields": {
+      "country": 8,
+      "title": "Akmen&#279;s rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 268,
+    "fields": {
+      "country": 8,
+      "title": "Alytaus miesto savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 269,
+    "fields": {
+      "country": 8,
+      "title": "Alytaus rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 270,
+    "fields": {
+      "country": 8,
+      "title": "Anyk&#353;&#269;i&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 271,
+    "fields": {
+      "country": 8,
+      "title": "Bir&#353;tono savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 272,
+    "fields": {
+      "country": 8,
+      "title": "Bir&#382;&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 273,
+    "fields": {
+      "country": 8,
+      "title": "Druskinink&#371; savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 274,
+    "fields": {
+      "country": 8,
+      "title": "Elektr&#279;n&#371; savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 275,
+    "fields": {
+      "country": 8,
+      "title": "Ignalinos rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 276,
+    "fields": {
+      "country": 8,
+      "title": "Jonavos rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 277,
+    "fields": {
+      "country": 8,
+      "title": "Joni&#353;kio rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 278,
+    "fields": {
+      "country": 8,
+      "title": "Jurbarko rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 279,
+    "fields": {
+      "country": 8,
+      "title": "Kai&#353;iadori&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 280,
+    "fields": {
+      "country": 8,
+      "title": "Kalvarijos savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 281,
+    "fields": {
+      "country": 8,
+      "title": "Kauno miesto savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 282,
+    "fields": {
+      "country": 8,
+      "title": "Kauno rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 283,
+    "fields": {
+      "country": 8,
+      "title": "Kazl&#371; R&#363;dos savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 284,
+    "fields": {
+      "country": 8,
+      "title": "K&#279;daini&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 285,
+    "fields": {
+      "country": 8,
+      "title": "Kelm&#279;s rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 286,
+    "fields": {
+      "country": 8,
+      "title": "Klaip&#279;dos miesto savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 287,
+    "fields": {
+      "country": 8,
+      "title": "Klaip&#279;dos rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 288,
+    "fields": {
+      "country": 8,
+      "title": "Kretingos rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 289,
+    "fields": {
+      "country": 8,
+      "title": "Kupi&#353;kio rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 290,
+    "fields": {
+      "country": 8,
+      "title": "Lazdij&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 291,
+    "fields": {
+      "country": 8,
+      "title": "Marijampol&#279;s savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 292,
+    "fields": {
+      "country": 8,
+      "title": "Ma&#382;eiki&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 293,
+    "fields": {
+      "country": 8,
+      "title": "Mol&#279;t&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 294,
+    "fields": {
+      "country": 8,
+      "title": "Neringos savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 295,
+    "fields": {
+      "country": 8,
+      "title": "Pag&#279;gi&#371; savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 296,
+    "fields": {
+      "country": 8,
+      "title": "Pakruojo rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 297,
+    "fields": {
+      "country": 8,
+      "title": "Palangos miesto savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 298,
+    "fields": {
+      "country": 8,
+      "title": "Panev&#279;&#382;io miesto savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 299,
+    "fields": {
+      "country": 8,
+      "title": "Panev&#279;&#382;io rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 300,
+    "fields": {
+      "country": 8,
+      "title": "Pasvalio rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 301,
+    "fields": {
+      "country": 8,
+      "title": "Plung&#279;s rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 302,
+    "fields": {
+      "country": 8,
+      "title": "Prien&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 303,
+    "fields": {
+      "country": 8,
+      "title": "Radvili&#353;kio rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 304,
+    "fields": {
+      "country": 8,
+      "title": "Raseini&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 305,
+    "fields": {
+      "country": 8,
+      "title": "Rietavo savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 306,
+    "fields": {
+      "country": 8,
+      "title": "Roki&#353;kio rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 307,
+    "fields": {
+      "country": 8,
+      "title": "&#352;aki&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 308,
+    "fields": {
+      "country": 8,
+      "title": "&#352;al&#269;inink&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 309,
+    "fields": {
+      "country": 8,
+      "title": "&#352;iauli&#371; miesto savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 310,
+    "fields": {
+      "country": 8,
+      "title": "&#352;iauli&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 311,
+    "fields": {
+      "country": 8,
+      "title": "&#352;ilal&#279;s rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 312,
+    "fields": {
+      "country": 8,
+      "title": "&#352;ilut&#279;s rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 313,
+    "fields": {
+      "country": 8,
+      "title": "&#352;irvint&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 314,
+    "fields": {
+      "country": 8,
+      "title": "Skuodo rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 315,
+    "fields": {
+      "country": 8,
+      "title": "&#352;ven&#269;ioni&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 316,
+    "fields": {
+      "country": 8,
+      "title": "Taurag&#279;s rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 317,
+    "fields": {
+      "country": 8,
+      "title": "Tel&#353;i&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 318,
+    "fields": {
+      "country": 8,
+      "title": "Trak&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 319,
+    "fields": {
+      "country": 8,
+      "title": "Ukmerg&#279;s rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 320,
+    "fields": {
+      "country": 8,
+      "title": "Utenos rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 321,
+    "fields": {
+      "country": 8,
+      "title": "Var&#279;nos rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 322,
+    "fields": {
+      "country": 8,
+      "title": "Vilkavi&#353;kio rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 323,
+    "fields": {
+      "country": 8,
+      "title": "Vilniaus miesto savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 324,
+    "fields": {
+      "country": 8,
+      "title": "Vilniaus rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 325,
+    "fields": {
+      "country": 8,
+      "title": "Visagino savivaldyb&#279;"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 326,
+    "fields": {
+      "country": 8,
+      "title": "Zaras&#371; rajonas"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 327,
+    "fields": {
+      "country": 9,
+      "title": "АТО Гагаузия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 328,
+    "fields": {
+      "country": 9,
+      "title": "АТО Приднестровье"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 329,
+    "fields": {
+      "country": 9,
+      "title": "Бессарабский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 330,
+    "fields": {
+      "country": 9,
+      "title": "Бричанский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 331,
+    "fields": {
+      "country": 9,
+      "title": "Глодянский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 332,
+    "fields": {
+      "country": 9,
+      "title": "Дондюшанский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 333,
+    "fields": {
+      "country": 9,
+      "title": "Дрокиевский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 334,
+    "fields": {
+      "country": 9,
+      "title": "Дубоссарский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 335,
+    "fields": {
+      "country": 9,
+      "title": "Единецкий район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 336,
+    "fields": {
+      "country": 9,
+      "title": "Кагульский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 337,
+    "fields": {
+      "country": 9,
+      "title": "Каларашский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 338,
+    "fields": {
+      "country": 9,
+      "title": "Кантемирский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 339,
+    "fields": {
+      "country": 9,
+      "title": "Каушанский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 340,
+    "fields": {
+      "country": 9,
+      "title": "Криулянский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 341,
+    "fields": {
+      "country": 9,
+      "title": "Леовский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 342,
+    "fields": {
+      "country": 9,
+      "title": "Ниспоренский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 343,
+    "fields": {
+      "country": 9,
+      "title": "Новоаненский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 344,
+    "fields": {
+      "country": 9,
+      "title": "Окницкий район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 345,
+    "fields": {
+      "country": 9,
+      "title": "Оргеевский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 346,
+    "fields": {
+      "country": 9,
+      "title": "Резинский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 347,
+    "fields": {
+      "country": 9,
+      "title": "Рышканский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 348,
+    "fields": {
+      "country": 9,
+      "title": "Сорокский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 349,
+    "fields": {
+      "country": 9,
+      "title": "Страшенский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 350,
+    "fields": {
+      "country": 9,
+      "title": "Сынджерейский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 351,
+    "fields": {
+      "country": 9,
+      "title": "Тараклийский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 352,
+    "fields": {
+      "country": 9,
+      "title": "Теленештский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 353,
+    "fields": {
+      "country": 9,
+      "title": "Унгенский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 354,
+    "fields": {
+      "country": 9,
+      "title": "Фалештский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 355,
+    "fields": {
+      "country": 9,
+      "title": "Флорештский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 356,
+    "fields": {
+      "country": 9,
+      "title": "Хынчештский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 357,
+    "fields": {
+      "country": 9,
+      "title": "Чимишлийский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 358,
+    "fields": {
+      "country": 9,
+      "title": "Шолданештский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 359,
+    "fields": {
+      "country": 9,
+      "title": "Штефан-Водский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 360,
+    "fields": {
+      "country": 9,
+      "title": "Яловенский район"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 361,
+    "fields": {
+      "country": 10,
+      "title": "Андижанская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 362,
+    "fields": {
+      "country": 10,
+      "title": "Бухарская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 363,
+    "fields": {
+      "country": 10,
+      "title": "Джизакская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 364,
+    "fields": {
+      "country": 10,
+      "title": "Каракалпакия"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 365,
+    "fields": {
+      "country": 10,
+      "title": "Кашкадарьинская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 366,
+    "fields": {
+      "country": 10,
+      "title": "Навоийская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 367,
+    "fields": {
+      "country": 10,
+      "title": "Наманганская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 368,
+    "fields": {
+      "country": 10,
+      "title": "Самаркандская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 369,
+    "fields": {
+      "country": 10,
+      "title": "Сурхандарьинская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 370,
+    "fields": {
+      "country": 10,
+      "title": "Сырдарьинская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 371,
+    "fields": {
+      "country": 10,
+      "title": "Ташкентская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 372,
+    "fields": {
+      "country": 10,
+      "title": "Ферганская"
+    }
+  },
+  {
+    "model": "locations.region",
+    "pk": 373,
+    "fields": {
+      "country": 10,
+      "title": "Хорезмская"
+    }
+  }
+]
